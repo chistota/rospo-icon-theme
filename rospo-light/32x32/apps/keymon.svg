@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1"
+   id="svg54"
+   sodipodi:docname="key-mon.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="-5.3706294"
+     inkscape:cy="16"
+     inkscape:current-layer="svg54" />
+  <rect
+     style="opacity:1;fill:#5b5b5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <g
+     id="g4579"
+     transform="translate(46.043208,-0.39285743)">
+    <circle
+       id="circle28-6"
+       r="1.1785715"
+       cy="11.678572"
+       cx="-37.900352"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle30-7"
+       r="1.1785715"
+       cy="11.678572"
+       cx="-33.971779"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle32-5"
+       r="1.1785715"
+       cy="11.678572"
+       cx="-30.043207"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle34-3"
+       r="1.1785715"
+       cy="11.678572"
+       cx="-26.114634"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle36-5"
+       r="1.1785715"
+       cy="11.678572"
+       cx="-22.186064"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle38-6"
+       r="1.1785715"
+       cy="16.392857"
+       cx="-35.543209"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle40-2"
+       r="1.1785715"
+       cy="16.392857"
+       cx="-31.614634"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle42-9"
+       r="1.1785715"
+       cy="16.392857"
+       cx="-27.686064"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <circle
+       id="circle44-1"
+       r="1.1785715"
+       cy="16.392857"
+       cx="-23.757494"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+    <rect
+       id="rect46-2"
+       ry="0.58928573"
+       rx="0.58928573"
+       y="19.928572"
+       x="-37.507492"
+       height="2.3571429"
+       width="15.714286"
+       style="fill:#cccccc;stroke-width:0.78571427" />
+  </g>
+  <g
+     id="g4567"
+     transform="matrix(0.75,0,0,0.75,4.2657343,4.6800699)"
+     style="stroke-width:1.33333337">
+    <circle
+       id="circle48"
+       r="8"
+       cy="23"
+       cx="24"
+       style="fill:#f57f17;stroke-width:1.33333337" />
+    <path
+       id="path50"
+       d="m 24,22.25 c -0.41471,0 -0.75075,0.33519 -0.75,0.75 0,0.414 0.336,0.75 0.75,0.75 0.41415,0 0.74992,-0.33576 0.75,-0.75 -9e-4,-0.41366 -0.33642,-0.75 -0.75,-0.75 z M 24,21 c 1.0936,-3e-6 1.9976,0.90695 2,1.998 V 23 c -2.45e-4,1.0926 -0.9073,2 -2,2 -1.092,1e-6 -1.9986,-0.90635 -2,-1.998 V 23 c -8e-4,-1.0931 0.9089,-2 2,-2 z m 0,-1 c -2,0 -4,1 -5,3 1,2 3,3 5,3 2,0 4,-1 5,-3 -1,-2 -3,-3 -5,-3 z"
+       style="fill:#ffffff;stroke-width:1.33333337"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
