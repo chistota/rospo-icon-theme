@@ -40,7 +40,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-9.7627119"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -58,5 +58,5 @@
      d="M 16.588,10.976 14,20.635 l 1.449,0.389 2.588,-9.659 z m 1.912,0.048 v 2 l 2.5,2.5 -2.5,2.5 v 2 l 5,-4.5 z m -5,1 -5,4.5 5,4.5 v -2 l -2.5,-2.5 2.5,-2.5 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="opacity:0.5" />
+     style="opacity:1;fill:#5d4b33;fill-opacity:1" />
 </svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image9" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAa0lEQVRoge3PMQqAMBBE0SimCFsHzP0PF8FSwhZpvIE2C4P4X73M8lMCAODDlsixvZQ25mxPN5ZzP9x71M81akiFADUC1AhQI0CNADUC1AhQI0CNADUC1LbIsdPsqmO83iT3yLcAAAAAfuoGXI4QBVAYP0sAAAAASUVORK5CYII="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image9"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="48" height="48"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 24 9 C 24 9 22.5 9 22.5 10.5 C 22.5 12 21 12 21 12 C 21 12 19.5 12 19.5 10.5 L 19.5 31.5 L 28.5 31.5 L 28.5 10.5 C 28.5 12 27 12 27 12 C 27 12 25.5 12 25.5 10.5 C 25.5 9 24 9 24 9 Z M 24 9 "/>
+</g>
+<image id="image17" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PwQmAQAwEwOhdI1Zi7fYhaCEGLEGQQD4z72WXjQAAAH5aKsvGGHtE7B+xIzOPqs21qqiLA90c6OZANwe6zcqybc77ep7PzJlZOQsAAADQ4AWGmQzXJJM1ugAAAABJRU5ErkJggg=="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<use xlink:href="#image17"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect width="48" height="48"/>
+</clipPath>
+<g id="surface19" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 21 15 C 21 15 19.5 15 19.5 16.5 L 19.5 25.5 L 28.5 25.5 L 28.5 16.5 C 28.5 15 27 15 27 15 C 27 15 25.5 15 25.5 16.5 C 25.5 18 24 18 24 18 C 24 18 22.5 18 22.5 16.5 C 22.5 15 21 15 21 15 Z M 21 15 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(35.294118%,66.27451%,94.117647%);fill-opacity:1;" d="M 11.207031 2.847656 L 36.792969 2.847656 C 41.40625 2.847656 45.152344 6.59375 45.152344 11.207031 L 45.152344 36.792969 C 45.152344 41.40625 41.40625 45.152344 36.792969 45.152344 L 11.207031 45.152344 C 6.59375 45.152344 2.847656 41.40625 2.847656 36.792969 L 2.847656 11.207031 C 2.847656 6.59375 6.59375 2.847656 11.207031 2.847656 Z M 11.207031 2.847656 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 13.5 27 L 24 39 L 34.5 27 L 28.5 27 L 28.5 22.5 C 28.5 24 27 24 27 24 C 27 24 25.5 24 25.5 22.5 C 25.5 21 24 21 24 21 C 24 21 22.5 21 22.5 22.5 C 22.5 24 21 24 21 24 C 21 24 19.5 24 19.5 22.5 L 19.5 27 Z M 13.5 27 "/>
+<use xlink:href="#surface11" mask="url(#mask0)"/>
+<use xlink:href="#surface19" mask="url(#mask1)"/>
+</g>
+</svg>

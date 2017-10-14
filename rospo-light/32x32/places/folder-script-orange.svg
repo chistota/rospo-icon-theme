@@ -40,8 +40,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-33.355932"
-     inkscape:cy="16"
+     inkscape:cx="-20.881356"
+     inkscape:cy="18.576271"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
      d="m 9.9999998,11.355932 v 12 H 22 v -12 z m 3.0000002,1 h 1 v 1 h 0.5 c 0.65,0 1.200156,0.42 1.410156,1 H 14.5 14 v 1 h 0.5 c 0.83,0 1.5,0.67 1.5,1.5 0,0.83 -0.67,1.5 -1.5,1.5 H 14 v 1 h -1 v -1 h -0.5 c -0.65,0 -1.200156,-0.42 -1.410156,-1 H 12.5 13 v -1 h -0.5 c -0.83,0 -1.5,-0.67 -1.5,-1.5 0,-0.83 0.67,-1.5 1.5,-1.5 H 13 Z m -0.5,2 c -0.28,0 -0.5,0.22 -0.5,0.5 0,0.28 0.22,0.5 0.5,0.5 H 13 v -1 z m 1.5,2 v 1 h 0.5 c 0.28,0.01 0.5,-0.22 0.5,-0.5 0,-0.28 -0.22,-0.5 -0.5,-0.5 z m 3,2 h 4 v 1 h -4 z"
      id="path14-3"
      inkscape:connector-curvature="0" />

@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="8.9375"
-     inkscape:cx="-5.3706294"
+     inkscape:cx="-26.629371"
      inkscape:cy="16"
      inkscape:current-layer="svg16" />
   <polygon
@@ -60,18 +60,14 @@
      inkscape:export-filename="/home/ramil/3.png"
      inkscape:export-xdpi="71"
      inkscape:export-ydpi="71" />
-  <g
-     id="g4507"
-     transform="translate(31.99995,3.6923078)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path8"
-       style="opacity:0.3"
-       d="m -14,1.3076923 -5,6 h -2.9999 V 19.307692 h 4 v 4 l 5,-6 H -10 V 5.3076923 h -4 z" />
-    <path
-       style="fill:#ffffff"
-       inkscape:connector-curvature="0"
-       id="path12"
-       d="m -21,8.3076923 v 6.9999997 h 3 v -3 l 4,4 h 3 V 9.3076923 h -3 v 2.9999997 l -4,-3.9999997 z" />
-  </g>
+  <path
+     d="M 17.99995,5.0000001 12.99995,11 h -2.9999 v 12 h 4 v 4 l 5,-6 h 2.9999 V 9.0000001 h -4 z"
+     style="opacity:1;fill:#cccccc"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 10.99995,12 v 7 h 3 v -3 l 4,4 h 3 v -7 h -3 v 3 l -4,-4 z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:#333333" />
 </svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.521569;" d="M 9.238281 12.15625 L 9.238281 10.695312 L 26.761719 10.695312 L 26.761719 12.15625 Z M 9.238281 12.15625 "/>
+</g>
+<clipPath id="clip2">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.521569;" d="M 9.238281 16.539062 L 9.238281 15.078125 L 26.761719 15.078125 L 26.761719 16.539062 Z M 9.238281 16.539062 "/>
+</g>
+<clipPath id="clip3">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface12" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.521569;" d="M 9.238281 20.921875 L 9.238281 19.460938 L 26.761719 19.460938 L 26.761719 20.921875 Z M 9.238281 20.921875 "/>
+</g>
+<clipPath id="clip4">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface15" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.521569;" d="M 9.238281 25.304688 L 9.238281 23.84375 L 20.921875 23.84375 L 20.921875 25.304688 Z M 9.238281 25.304688 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(99.607843%,80.392157%,21.960784%);fill-opacity:1;" d="M 8.40625 2.136719 L 27.59375 2.136719 C 31.054688 2.136719 33.863281 4.945312 33.863281 8.40625 L 33.863281 27.59375 C 33.863281 31.054688 31.054688 33.863281 27.59375 33.863281 L 8.40625 33.863281 C 4.945312 33.863281 2.136719 31.054688 2.136719 27.59375 L 2.136719 8.40625 C 2.136719 4.945312 4.945312 2.136719 8.40625 2.136719 Z M 8.40625 2.136719 "/>
+<use xlink:href="#surface6"/>
+<use xlink:href="#surface9"/>
+<use xlink:href="#surface12"/>
+<use xlink:href="#surface15"/>
+</g>
+</svg>

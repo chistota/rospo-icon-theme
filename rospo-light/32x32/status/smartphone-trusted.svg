@@ -40,40 +40,35 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="8.8125"
-     inkscape:cx="-5.6737589"
-     inkscape:cy="16"
+     inkscape:cx="-21.673759"
+     inkscape:cy="10.553191"
      inkscape:current-layer="svg14" />
   <rect
      style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-3"
+     id="rect4497-3-3"
      width="28.203388"
      height="28.203388"
-     x="1.8983059"
+     x="1.8983061"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4523"
-     transform="matrix(0.96595745,0,0,0.96595745,0.54419782,1.0276595)"
-     style="stroke-width:1.03524232">
-    <path
-       id="path6-3"
-       d="m 7.5385,3.9997 h 16.924 c 0.852,0 1.538,0.7548 1.538,1.6923 v 18.616 c 0,0.937 -0.686,1.692 -1.538,1.692 H 7.5385 C 6.6867,26 6.0005,25.24542 6.0005,24.3082 V 5.6932 C 6.0015,4.7558 6.6877,4.001 7.54,4.001 Z"
-       style="opacity:0.5;stroke-width:1.03524232"
-       inkscape:connector-curvature="0" />
-    <rect
-       id="rect10-6"
-       ry="0.5"
-       rx="0.5"
-       y="2"
-       x="12"
-       height="1"
-       width="8"
-       style="opacity:0.5;stroke-width:1.03524232" />
-    <circle
-       id="circle24"
-       r="1"
-       cy="28"
-       cx="16"
-       style="opacity:0.5;stroke-width:1.03524232" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;stroke-width:0.99999994;fill:#4d4d4d"
+     d="m 7.826069,5.1181498 h 16.347863 c 0.822996,0 1.485642,0.7388376 1.485642,1.6565115 V 24.996973 c 0,0.917184 -0.662646,1.656218 -1.485642,1.656218 H 7.826069 c -0.822803,0 -1.485643,-0.738622 -1.485643,-1.656022 V 6.775836 C 6.341392,5.8582598 7.004232,5.1194222 7.827517,5.1194222 Z"
+     id="path6" />
+  <rect
+     style="opacity:1;stroke-width:1;fill:#4d4d4d"
+     width="7.7276597"
+     height="0.96595746"
+     x="12.192423"
+     y="3.2432623"
+     rx="0.48297873"
+     ry="0.48297873"
+     id="rect12" />
+  <circle
+     style="opacity:1;stroke-width:1;fill:#4d4d4d"
+     cx="15.999519"
+     cy="28.187944"
+     r="0.96595746"
+     id="circle14" />
 </svg>

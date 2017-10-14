@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(25.882353%,41.176471%,80.392157%);fill-opacity:1;" d="M 32.132812 25.40625 C 32.132812 29.136719 29.109375 32.15625 25.382812 32.15625 C 21.65625 32.15625 18.632812 29.136719 18.632812 25.40625 C 18.632812 21.679688 21.65625 18.65625 25.382812 18.65625 C 29.109375 18.65625 32.132812 21.679688 32.132812 25.40625 Z M 32.132812 25.40625 "/>
+</g>
+<clipPath id="clip2">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 25.382812 22.03125 C 23.519531 22.03125 22.007812 23.542969 22.007812 25.40625 C 22.007812 27.273438 23.519531 28.78125 25.382812 28.78125 C 26.914062 28.78125 28.207031 27.769531 28.621094 26.371094 L 27.582031 26.371094 C 27.210938 27.21875 26.367188 27.820312 25.382812 27.820312 C 24.050781 27.820312 22.972656 26.738281 22.972656 25.40625 C 22.972656 24.078125 24.050781 22.996094 25.382812 22.996094 C 26.050781 22.996094 26.644531 23.273438 27.078125 23.714844 L 25.863281 24.925781 L 28.757812 24.925781 L 28.757812 22.035156 L 27.769531 23.023438 C 27.15625 22.414062 26.316406 22.035156 25.382812 22.035156 Z M 25.382812 22.03125 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(30.980392%,30.980392%,30.980392%);fill-opacity:1;" d="M 8.40625 2.136719 L 27.59375 2.136719 C 31.054688 2.136719 33.863281 4.945312 33.863281 8.40625 L 33.863281 27.59375 C 33.863281 31.054688 31.054688 33.863281 27.59375 33.863281 L 8.40625 33.863281 C 4.945312 33.863281 2.136719 31.054688 2.136719 27.59375 L 2.136719 8.40625 C 2.136719 4.945312 4.945312 2.136719 8.40625 2.136719 Z M 8.40625 2.136719 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(50.196078%,50.196078%,50.196078%);fill-opacity:1;" d="M 11.25 5.0625 L 24.75 5.0625 L 24.75 16.3125 L 11.25 16.3125 Z M 11.25 5.0625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.75 5.0625 L 10.125 5.0625 L 10.125 8.4375 L 6.75 8.4375 Z M 6.75 5.0625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.75 10.6875 L 10.125 10.6875 L 10.125 14.0625 L 6.75 14.0625 Z M 6.75 10.6875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.75 16.3125 L 10.125 16.3125 L 10.125 19.6875 L 6.75 19.6875 Z M 6.75 16.3125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.75 21.9375 L 10.125 21.9375 L 10.125 25.3125 L 6.75 25.3125 Z M 6.75 21.9375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.75 27.5625 L 10.125 27.5625 L 10.125 30.9375 L 6.75 30.9375 Z M 6.75 27.5625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 25.875 5.0625 L 29.25 5.0625 L 29.25 8.4375 L 25.875 8.4375 Z M 25.875 5.0625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 25.875 10.6875 L 29.25 10.6875 L 29.25 14.0625 L 25.875 14.0625 Z M 25.875 10.6875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 25.875 16.3125 L 29.25 16.3125 L 29.25 19.6875 L 25.875 19.6875 Z M 25.875 16.3125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 25.875 21.9375 L 29.25 21.9375 L 29.25 25.3125 L 25.875 25.3125 Z M 25.875 21.9375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 25.875 27.5625 L 29.25 27.5625 L 29.25 30.9375 L 25.875 30.9375 Z M 25.875 27.5625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(50.196078%,50.196078%,50.196078%);fill-opacity:1;" d="M 11.25 19.6875 L 24.75 19.6875 L 24.75 30.9375 L 11.25 30.9375 Z M 11.25 19.6875 "/>
+<use xlink:href="#surface6"/>
+<use xlink:href="#surface9"/>
+</g>
+</svg>

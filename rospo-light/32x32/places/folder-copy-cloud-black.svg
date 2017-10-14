@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg16"
-   sodipodi:docname="folder-copy-cloud.svg"
+   sodipodi:docname="folder-copy-cloud-black.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -40,8 +40,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-37.423728"
-     inkscape:cy="16"
+     inkscape:cx="-16.271186"
+     inkscape:cy="16.542373"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
      d="m 19.822034,12.779661 -2.25,3.75 1.5,0.75 z m -8.25,2.25 -2.2500001,1.607 3.0000001,-0.107 1.5,5.25 0.75,-0.75 6.75,0.75 -2.25,-3.75 -0.965,-0.536 -3.642,2.143 -1.715,-4.285 z m 4.179,1.607 -1.715,1.071 0.643,1.5 3,-1.714 -1.071,-0.857 z"
      id="path14"
      inkscape:connector-curvature="0" />

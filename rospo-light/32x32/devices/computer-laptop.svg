@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg14"
-   sodipodi:docname="blueman-laptop.svg"
+   sodipodi:docname="computer-laptop.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata20">
@@ -39,49 +39,38 @@
      inkscape:window-height="965"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-20.951065"
-     inkscape:cy="12.460264"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-0.10553206"
+     inkscape:cy="0.99340161"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <rect
      style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
-     x="1.8983059"
+     x="1.8983063"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4516"
-     transform="translate(62.64407,4.1101704)">
-    <rect
-       id="rect4"
-       transform="matrix(0,-1,-1,0,0,0)"
-       ry="0.86259079"
-       rx="0.86259079"
-       y="36.29298"
-       x="-19.135592"
-       height="20.702179"
-       width="2.0702178"
-       style="fill:#474747;fill-opacity:1;stroke-width:0.69007266" />
-    <rect
-       id="rect8"
-       ry="0.86259079"
-       rx="0.86259079"
-       y="4.6440678"
-       x="-55.615013"
-       height="12.421308"
-       width="17.941889"
-       style="fill:#474747;fill-opacity:1;stroke-width:0.69007266" />
-    <rect
-       id="rect10"
-       y="6.0242133"
-       x="-54.234867"
-       height="9.6610165"
-       width="15.181598"
-       style="opacity:1;fill:#8e8e8e;fill-opacity:1;stroke-width:0.69007266" />
-  </g>
+  <rect
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.04598427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4485"
+     width="23.148935"
+     height="15.565144"
+     x="4.42553"
+     y="7.5146494"
+     ry="2.2780724" />
+  <rect
+     style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.04598427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4485-6"
+     width="23.148935"
+     height="2.1152804"
+     x="4.42553"
+     y="23.712727"
+     ry="1.0576402"
+     rx="1.0576402" />
 </svg>

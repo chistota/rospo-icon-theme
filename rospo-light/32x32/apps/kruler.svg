@@ -40,85 +40,76 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="6.2313785"
-     inkscape:cx="-21.335022"
+     inkscape:cx="-51.825868"
      inkscape:cy="24.583818"
      inkscape:current-layer="svg26" />
-  <g
-     id="g4559"
-     transform="translate(49.498857,1.8983059)">
-    <rect
-       ry="5.575182"
-       y="0"
-       x="-47.600552"
-       height="28.203388"
-       width="28.203388"
-       id="rect4497-3"
-       style="opacity:1;fill:#e2d144;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       style="stroke-width:1.29807556"
-       transform="matrix(0.77037115,0,0,0.77037115,-46.821053,-3.0814846)"
-       id="g4546">
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="11"
-         x="6"
-         y="4"
-         id="rect6" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="8"
-         x="21"
-         y="4"
-         id="rect8" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="5"
-         x="9"
-         y="4"
-         id="rect10" />
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.5;stroke-width:1.29807556"
-         d="m 4,17 v 8 h 6 v -8 z m 2,2 h 2 v 4 H 6 Z"
-         id="path12" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="5"
-         x="12"
-         y="4"
-         id="rect14" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="5"
-         x="15"
-         y="4"
-         id="rect16" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="5"
-         x="18"
-         y="4"
-         id="rect18" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="5"
-         x="24"
-         y="4"
-         id="rect20" />
-      <rect
-         style="opacity:0.5;stroke-width:1.29807556"
-         width="2"
-         height="5"
-         x="27"
-         y="4"
-         id="rect24" />
-    </g>
-  </g>
+  <rect
+     style="opacity:1;fill:#e2d144;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983054"
+     y="1.8983059"
+     ry="5.575182" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="8.4740829"
+     x="7.3000307"
+     y="1.8983059"
+     id="rect6" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="6.1629691"
+     x="18.855598"
+     y="1.8983059"
+     id="rect8" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="3.8518558"
+     x="9.6111441"
+     y="1.8983059"
+     id="rect10" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     d="M 5.7592886,11.913131 V 18.0761 h 4.6222264 v -6.162969 z m 1.5407423,1.540742 h 1.5407423 v 3.081485 H 7.3000309 Z"
+     id="path12" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="3.8518558"
+     x="11.922257"
+     y="1.8983059"
+     id="rect14" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="3.8518558"
+     x="14.233371"
+     y="1.8983059"
+     id="rect16" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="3.8518558"
+     x="16.544485"
+     y="1.8983059"
+     id="rect18" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="3.8518558"
+     x="21.166712"
+     y="1.8983059"
+     id="rect20" />
+  <rect
+     style="opacity:1;fill:#797131;fill-opacity:1;stroke-width:0.99999994"
+     width="1.5407423"
+     height="3.8518558"
+     x="23.477825"
+     y="1.8983059"
+     id="rect24" />
 </svg>

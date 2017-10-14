@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg32"
-   sodipodi:docname="de.haeckerfelix.gradio.svg"
+   sodipodi:docname="radiotray.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata38">
@@ -40,7 +40,7 @@
      id="namedview34"
      showgrid="false"
      inkscape:zoom="8.8125"
-     inkscape:cx="-5.5602837"
+     inkscape:cx="-48.680851"
      inkscape:cy="16"
      inkscape:current-layer="svg32" />
   <rect
@@ -51,73 +51,69 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4530"
-     transform="translate(44.368793,-3.9503555)">
-    <circle
-       style="opacity:0.2"
-       id="circle4"
-       r="7"
-       cx="-33.368793"
-       cy="18.950356" />
-    <path
-       style="fill:#ee5858"
-       inkscape:connector-curvature="0"
-       id="path6"
-       d="m -38.318494,14.000355 a 7,7 0 0 0 -0.65186,0.76235 l 2.1586,2.1586 a 4,4 0 0 0 0.61458,4.8572 4,4 0 0 0 4.8558,0.6132 l 2.1586,2.1586 a 7,7 0 0 0 0.76373,-0.65048 7,7 0 0 0 0.65186,-0.76235 l -2.159,-2.158 a 4,4 0 0 0 -0.615,-4.857 4,4 0 0 0 -4.8554,-0.614 l -2.1586,-2.158 a 7,7 0 0 0 -0.7641,0.651 z" />
-    <circle
-       style="fill:#f3c4c4"
-       id="circle10"
-       r="2"
-       cx="-33.368793"
-       cy="18.950356" />
-    <rect
-       style="opacity:0.2"
-       id="rect12"
-       x="-24.368793"
-       y="12.950355"
-       width="8"
-       height="2"
-       ry="1"
-       rx="1" />
-    <circle
-       style="fill:#58c4ee"
-       id="circle16"
-       r="1.5"
-       cx="-17.868793"
-       cy="26.450356" />
-    <circle
-       style="fill:#58c4ee"
-       id="circle20"
-       r="1.5"
-       cx="-21.868793"
-       cy="26.450356" />
-    <rect
-       style="opacity:0.2"
-       id="rect22"
-       x="-24.368793"
-       y="15.950355"
-       width="8"
-       height="2"
-       ry="1"
-       rx="1" />
-    <rect
-       style="opacity:0.2"
-       id="rect24"
-       x="-24.368793"
-       y="18.950356"
-       width="8"
-       height="2"
-       ry="1"
-       rx="1" />
-    <rect
-       style="opacity:0.2"
-       id="rect26"
-       x="-24.368793"
-       y="21.950356"
-       width="8"
-       height="2"
-       ry="1"
-       rx="1" />
-  </g>
+  <circle
+     cy="15"
+     cx="10.999999"
+     r="7"
+     id="circle4"
+     style="opacity:1;fill:#3d4f56;fill-opacity:1" />
+  <path
+     d="m 6.050299,10.05 a 7,7 0 0 0 -0.65186,0.76235 l 2.1586,2.1586 a 4,4 0 0 0 0.61458,4.857199 4,4 0 0 0 4.8558,0.6132 l 2.1586,2.1586 a 7,7 0 0 0 0.76373,-0.65048 7,7 0 0 0 0.65186,-0.76235 l -2.159,-2.158 a 4,4 0 0 0 -0.615,-4.857 4,4 0 0 0 -4.8554,-0.614 l -2.1586,-2.1579995 a 7,7 0 0 0 -0.7641,0.6509995 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#ee5858" />
+  <circle
+     cy="15"
+     cx="10.999999"
+     r="2"
+     id="circle10"
+     style="fill:#f3c4c4" />
+  <rect
+     rx="1"
+     ry="1"
+     height="2"
+     width="8"
+     y="8.999999"
+     x="20"
+     id="rect12"
+     style="opacity:1;fill:#3d4f56;fill-opacity:1" />
+  <circle
+     cy="22.5"
+     cx="26.5"
+     r="1.5"
+     id="circle16"
+     style="fill:#58c4ee" />
+  <circle
+     cy="22.5"
+     cx="22.5"
+     r="1.5"
+     id="circle20"
+     style="fill:#58c4ee" />
+  <rect
+     rx="1"
+     ry="1"
+     height="2"
+     width="8"
+     y="11.999999"
+     x="20"
+     id="rect22"
+     style="opacity:1;fill:#3d4f56;fill-opacity:1" />
+  <rect
+     rx="1"
+     ry="1"
+     height="2"
+     width="8"
+     y="15"
+     x="20"
+     id="rect24"
+     style="opacity:1;fill:#3d4f56;fill-opacity:1" />
+  <rect
+     rx="1"
+     ry="1"
+     height="2"
+     width="8"
+     y="18"
+     x="20"
+     id="rect26"
+     style="opacity:1;fill:#3d4f56;fill-opacity:1" />
 </svg>

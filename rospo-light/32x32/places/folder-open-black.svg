@@ -42,27 +42,27 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="-15.964319"
-     inkscape:cy="25.153829"
+     inkscape:cx="-3.6918216"
+     inkscape:cy="22.852736"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
+  <rect
+     style="fill:#dcdcdc;stroke-width:1.1666466"
+     width="24.49958"
+     height="11.666466"
+     x="3.7262404"
+     y="4.5863452"
+     rx="1.4583082"
+     ry="1.4583082"
+     id="rect8" />
   <path
      style="fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:0.14515875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 27.90368,6.7271303 c 1.168734,-7.39e-4 2.109629,0.940894 2.109629,2.109629 V 26.44728 c 0,1.168735 -0.940895,2.109629 -2.109629,2.109629 H 4.09632 c -1.168734,0 -2.109682,-0.940894 -2.109629,-2.109629 l 7.31e-4,-16.244507 7.31e-4,-5.0669087 c 0,-0.937796 0.754977,-1.692773 1.692774,-1.692773 h 9.09082 c 0.937797,0 1.704839,0.371321 2.299888,1.096152 l 1.801865,2.19486 z"
      id="rect4549-3"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
-  <rect
-     style="fill:#dcdcdc;stroke-width:1.1666466"
-     width="24.49958"
-     height="11.666466"
-     x="3.7262404"
-     y="9.1885319"
-     rx="1.4583082"
-     ry="1.4583082"
-     id="rect8" />
   <rect
      style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:1.04995012"
      id="rect4503"

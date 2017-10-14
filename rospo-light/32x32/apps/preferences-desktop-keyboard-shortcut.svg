@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,157 +41,94 @@
      id="namedview50"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-35.38983"
-     inkscape:cy="16"
+     inkscape:cx="-22.644067"
+     inkscape:cy="8.8135593"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg48" />
-  <rect
-     style="opacity:1;fill:#5b5b5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497"
-     width="28.203388"
-     height="28.203388"
-     x="1.8983059"
-     y="1.8983059"
-     ry="5.575182" />
   <g
-     id="g4564"
-     transform="matrix(0.78571429,0,0,0.78571429,3.4285714,3.4285714)">
+     id="g4544"
+     transform="translate(39.322035,3.1186441)">
     <rect
-       id="rect2"
-       ry="1.4"
-       rx="1.4"
-       y="6"
-       x="2"
-       height="20"
-       width="28"
-       style="fill:#5b5b5b" />
-    <circle
-       id="circle8"
-       r="1.5"
-       cy="11.5"
-       cx="5.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle10"
-       r="1.5"
-       cy="11.5"
-       cx="10.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle12"
-       r="1.5"
-       cy="11.5"
-       cx="15.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle14"
-       r="1.5"
-       cy="11.5"
-       cx="20.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle16"
-       r="1.5"
-       cy="11.5"
-       cx="25.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle18"
-       r="1.5"
-       cy="17.5"
-       cx="8.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle20"
-       r="1.5"
-       cy="17.5"
-       cx="13.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle22"
-       r="1.5"
-       cy="17.5"
-       cx="18.5"
-       style="opacity:0.2" />
-    <circle
-       id="circle24"
-       r="1.5"
-       cy="17.5"
-       cx="23.5"
-       style="opacity:0.2" />
+       ry="5.575182"
+       y="-1.2203382"
+       x="-37.423729"
+       height="28.203388"
+       width="28.203388"
+       id="rect4497-3"
+       style="opacity:1;fill:#5b5b5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       id="rect26"
-       ry="0.75"
-       rx="0.75"
-       y="22"
-       x="6"
-       height="3"
-       width="20"
-       style="opacity:0.2" />
+       id="rect2-6"
+       ry="1.1"
+       rx="1.1"
+       y="5.0242133"
+       x="-34.322033"
+       height="15.714286"
+       width="22"
+       style="fill:#5b5b5b;stroke-width:0.78571427" />
     <circle
-       id="circle28"
-       r="1.5"
-       cy="10.5"
-       cx="5.5"
-       style="fill:#cccccc" />
+       id="circle28-7"
+       r="1.1785715"
+       cy="8.5599279"
+       cx="-31.572035"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <circle
-       id="circle30"
-       r="1.5"
-       cy="10.5"
-       cx="10.5"
-       style="fill:#cccccc" />
+       id="circle30-5"
+       r="1.1785715"
+       cy="8.5599279"
+       cx="-27.643463"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <circle
-       id="circle32"
-       r="1.5"
-       cy="10.5"
-       cx="15.5"
-       style="fill:#cccccc" />
+       id="circle32-3"
+       r="1.1785715"
+       cy="8.5599279"
+       cx="-23.714891"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <circle
-       id="circle34"
-       r="1.5"
-       cy="10.5"
-       cx="20.5"
-       style="fill:#cccccc" />
+       id="circle34-5"
+       r="1.1785715"
+       cy="8.5599279"
+       cx="-19.78632"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <circle
-       id="circle36"
-       r="1.5"
-       cy="10.5"
-       cx="25.5"
-       style="fill:#ff8834" />
+       id="circle36-6"
+       r="1.1785715"
+       cy="8.5599279"
+       cx="-15.857749"
+       style="fill:#ff8834;stroke-width:0.78571427" />
     <circle
-       id="circle38"
-       r="1.5"
-       cy="16.5"
-       cx="8.5"
-       style="fill:#cccccc" />
+       id="circle38-2"
+       r="1.1785715"
+       cy="13.274213"
+       cx="-29.214891"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <circle
-       id="circle40"
-       r="1.5"
-       cy="16.5"
-       cx="13.5"
-       style="fill:#cccccc" />
+       id="circle40-9"
+       r="1.1785715"
+       cy="13.274213"
+       cx="-25.28632"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <circle
-       id="circle42"
-       r="1.5"
-       cy="16.5"
-       cx="18.5"
-       style="fill:#ff8834" />
+       id="circle42-1"
+       r="1.1785715"
+       cy="13.274213"
+       cx="-21.35775"
+       style="fill:#ff8834;stroke-width:0.78571427" />
     <circle
-       id="circle44"
-       r="1.5"
-       cy="16.5"
-       cx="23.5"
-       style="fill:#cccccc" />
+       id="circle44-2"
+       r="1.1785715"
+       cy="13.274213"
+       cx="-17.429178"
+       style="fill:#cccccc;stroke-width:0.78571427" />
     <rect
-       id="rect46"
-       ry="0.75"
-       rx="0.75"
-       y="21"
-       x="6"
-       height="3"
-       width="20"
-       style="fill:#cccccc" />
+       id="rect46-7"
+       ry="0.58928573"
+       rx="0.58928573"
+       y="16.809927"
+       x="-31.179176"
+       height="2.3571429"
+       width="15.714286"
+       style="fill:#cccccc;stroke-width:0.78571427" />
   </g>
 </svg>

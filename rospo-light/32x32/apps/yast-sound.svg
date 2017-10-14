@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg20"
-   sodipodi:docname="gnome-settings-sound.svg"
+   sodipodi:docname="yast-sound.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata26">
@@ -39,9 +39,9 @@
      inkscape:window-height="963"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
-     inkscape:cy="16"
+     inkscape:zoom="20.85965"
+     inkscape:cx="5.2182601"
+     inkscape:cy="18.425013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,50 +54,39 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4535"
-     transform="translate(66.305084,20.110169)">
-    <circle
-       id="circle4"
-       transform="rotate(-90)"
-       r="9"
-       cy="-50.305084"
-       cx="2.6101694"
-       style="opacity:0.4" />
-    <circle
-       style="opacity:0.2"
-       id="circle6"
-       transform="matrix(0,-1,-1,0,0,0)"
-       r="7"
-       cy="50.305084"
-       cx="1.6101695" />
-    <circle
-       style="fill:#fec006"
-       id="circle8"
-       transform="matrix(0,-1,-1,0,0,0)"
-       r="7"
-       cy="50.305084"
-       cx="2.6101694" />
-    <circle
-       id="circle10"
-       transform="matrix(0,-1,-1,0,0,0)"
-       r="3"
-       cy="50.305084"
-       cx="2.6101694"
-       style="fill:#3f3f3f" />
-    <circle
-       id="circle12"
-       transform="rotate(90)"
-       r="1"
-       cy="56.305084"
-       cx="-13.610169"
-       style="opacity:0.4" />
-    <circle
-       id="circle14"
-       transform="rotate(90)"
-       r="1"
-       cy="44.305084"
-       cx="-13.610169"
-       style="opacity:0.4" />
-  </g>
+  <circle
+     style="opacity:1;fill:#333333;fill-opacity:0.60240966"
+     cx="-17.5"
+     cy="16"
+     r="9"
+     transform="rotate(-90)"
+     id="circle4" />
+  <circle
+     cx="-17.5"
+     cy="-16"
+     r="7"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="circle8"
+     style="fill:#fec006" />
+  <circle
+     style="fill:#3f3f3f"
+     cx="-17.5"
+     cy="-16"
+     r="3"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="circle10" />
+  <circle
+     style="opacity:1;fill:#333333;fill-opacity:0.60240966"
+     cx="6.5000005"
+     cy="-10"
+     r="1"
+     transform="rotate(90)"
+     id="circle12" />
+  <circle
+     style="opacity:1;fill:#333333;fill-opacity:0.60240966"
+     cx="6.5000005"
+     cy="-22"
+     r="1"
+     transform="rotate(90)"
+     id="circle14" />
 </svg>

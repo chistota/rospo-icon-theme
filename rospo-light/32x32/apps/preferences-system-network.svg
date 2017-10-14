@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg24"
-   sodipodi:docname="preferences-system-network-proxy.svg"
+   sodipodi:docname="preferences-system-network.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata30">
@@ -40,7 +40,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,48 +54,44 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
+  <path
+     style="opacity:1;fill:#666666"
+     d="m 12,24.542373 -2,-2 H 6 v -14 h 20 v 14 h -4 l -2,2 z"
+     id="path6"
+     inkscape:connector-curvature="0" />
   <g
-     id="g4521"
-     transform="translate(51.118644,4.7457628)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path6"
-       d="m -39.118644,19.79661 -2,-2 h -4 V 3.7966102 h 20 V 17.79661 h -4 l -2,2 z"
-       style="opacity:0.5" />
-    <g
-       id="g18"
-       transform="matrix(1,0,0,-1,-51.118644,-4.2033898)"
-       style="fill:#f8c44e">
-      <rect
-         id="rect8"
-         y="-10"
-         x="9"
-         height="2"
-         width="2" />
-      <rect
-         id="rect10"
-         y="-10"
-         x="12"
-         height="2"
-         width="2" />
-      <rect
-         id="rect12"
-         y="-10"
-         x="15"
-         height="2"
-         width="2" />
-      <rect
-         id="rect14"
-         y="-10"
-         x="18"
-         height="2"
-         width="2" />
-      <rect
-         id="rect16"
-         y="-10"
-         x="21"
-         height="2"
-         width="2" />
-    </g>
+     style="fill:#f8c44e"
+     transform="matrix(1,0,0,-1,0,0.542373)"
+     id="g18">
+    <rect
+       width="2"
+       height="2"
+       x="9"
+       y="-10"
+       id="rect8" />
+    <rect
+       width="2"
+       height="2"
+       x="12"
+       y="-10"
+       id="rect10" />
+    <rect
+       width="2"
+       height="2"
+       x="15"
+       y="-10"
+       id="rect12" />
+    <rect
+       width="2"
+       height="2"
+       x="18"
+       y="-10"
+       id="rect14" />
+    <rect
+       width="2"
+       height="2"
+       x="21"
+       y="-10"
+       id="rect16" />
   </g>
 </svg>

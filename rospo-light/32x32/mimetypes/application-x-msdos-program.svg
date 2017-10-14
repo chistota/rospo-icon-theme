@@ -40,29 +40,25 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-9.7627119"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
-  <g
-     id="g839"
-     transform="translate(35.79661,2.8474578)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path4508"
-       d="m -14.609629,-0.84745763 h -13.65097 c -3.066406,0 -5.536011,2.46766633 -5.536011,5.53407213 V 21.616531 c 0,3.066406 2.469605,5.536011 5.536011,5.536011 h 16.929917 c 3.0664058,0 5.5340718,-2.469605 5.5340718,-5.536011 V 7.9655615 Z"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect4497-3"
-       d="M -5.7966102,7.9655615 -14.609629,-0.84745753 V 2.4314898 c 0,3.0664056 2.467666,5.5340717 5.5340718,5.5340717 z"
-       style="opacity:0.17600002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  </g>
+  <path
+     style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 21.186981,2.0000002 H 7.536011 C 4.469605,2.0000002 2,4.4676665 2,7.5340723 V 24.463989 C 2,27.530395 4.469605,30 7.536011,30 H 24.465928 C 27.532334,30 30,27.530395 30,24.463989 v -13.65097 z"
+     id="path4508"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 30,10.813019 21.186981,2.0000003 v 3.2789473 c 0,3.0664056 2.467666,5.5340714 5.534072,5.5340714 z"
+     id="rect4497-3"
+     inkscape:connector-curvature="0" />
   <path
      d="m 9.0001,10.355832 v 6.2222 h 6.2222 v -6.2222 h -6.222 z m 7.7778,0 v 6.2222 h 6.2222 v -6.222 h -6.222 z m -7.778,7.778 v 6.222 h 6.2222 v -6.2222 H 8.9999 Z m 7.7778,0 v 6.2222 h 6.222 v -6.2222 h -6.2222 z"
      id="path10"
      inkscape:connector-curvature="0"
-     style="opacity:0.5" />
+     style="opacity:0.5;fill:#999999" />
 </svg>

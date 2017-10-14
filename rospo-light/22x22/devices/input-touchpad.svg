@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(55.686275%,55.686275%,55.686275%);fill-opacity:1;" d="M 3.734375 0.949219 L 12.265625 0.949219 C 13.800781 0.949219 15.050781 2.199219 15.050781 3.734375 L 15.050781 12.265625 C 15.050781 13.800781 13.800781 15.050781 12.265625 15.050781 L 3.734375 15.050781 C 2.199219 15.050781 0.949219 13.800781 0.949219 12.265625 L 0.949219 3.734375 C 0.949219 2.199219 2.199219 0.949219 3.734375 0.949219 Z M 3.734375 0.949219 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 2.625 10.25 L 6.875 10.25 C 7.21875 10.25 7.5 10.53125 7.5 10.875 L 7.5 12.625 C 7.5 12.96875 7.21875 13.25 6.875 13.25 L 2.625 13.25 C 2.28125 13.25 2 12.96875 2 12.625 L 2 10.875 C 2 10.53125 2.28125 10.25 2.625 10.25 Z M 2.625 10.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 9.125 10.25 L 13.375 10.25 C 13.71875 10.25 14 10.53125 14 10.875 L 14 12.625 C 14 12.96875 13.71875 13.25 13.375 13.25 L 9.125 13.25 C 8.78125 13.25 8.5 12.96875 8.5 12.625 L 8.5 10.875 C 8.5 10.53125 8.78125 10.25 9.125 10.25 Z M 9.125 10.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 12 2.75 L 14 2.75 L 14 3.25 L 12 3.25 Z M 12 2.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 12 3.75 L 14 3.75 L 14 4.25 L 12 4.25 Z M 12 3.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 12 4.75 L 14 4.75 L 14 5.25 L 12 5.25 Z M 12 4.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 12 5.75 L 14 5.75 L 14 6.25 L 12 6.25 Z M 12 5.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 12 6.75 L 14 6.75 L 14 7.25 L 12 7.25 Z M 12 6.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 12 7.75 L 14 7.75 L 14 8.25 L 12 8.25 Z M 12 7.75 "/>
+</g>
+</svg>

@@ -40,7 +40,7 @@
      id="namedview22"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -58,7 +58,7 @@
      d="M 16,9.0000001 C 12.134,9.0000001 9,12.134 9,16 v 7 h 7 c 3.866,0 7,-3.134 7,-7 0,-3.866 -3.134,-6.9999999 -7,-6.9999999 z M 16,12 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="opacity:0.5" />
+     style="opacity:1;fill:#4d4d4d" />
   <g
      id="g4513"
      transform="matrix(0.625,0,0,0.625,8.0508475,8.6758475)">

@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg14"
-   sodipodi:docname="appimagekit-standard-notes.svg"
+   sodipodi:docname="standard-notes.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata20">
@@ -40,7 +40,7 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -61,7 +61,7 @@
        style="opacity:1;fill:#c2352a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <path
-     style="opacity:0.1"
+     style="opacity:1;fill:#666666"
      d="m 6,13.432203 v 1 h 20 v -1 z m 0,4 v 1 h 20 v -1 z m 0,4 v 1 h 20 v -1 z m 0,4 v 1 h 20 v -1 z"
      id="path10"
      inkscape:connector-curvature="0" />

@@ -40,25 +40,28 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="8.8125"
-     inkscape:cx="-5.6737589"
+     inkscape:cx="-48.794327"
      inkscape:cy="16"
      inkscape:current-layer="svg22" />
   <rect
      style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-3"
+     id="rect4497-3-3"
      width="28.203388"
      height="28.203388"
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <path
-     style="opacity:0.5"
-     d="M 27,23 V 9 H 5 v 14 z"
-     id="path4"
-     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.04598427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4485"
+     width="23.148935"
+     height="16.907801"
+     x="4.4255323"
+     y="7.5460997"
+     ry="2.47458" />
   <g
      id="g4520"
-     transform="matrix(0.71428571,0,0,0.71428571,10.318136,7.5136773)"
+     transform="matrix(0.71428571,0,0,0.71428571,10.658562,7.5136773)"
      style="stroke-width:1.39999998">
     <circle
        cx="17.64539"

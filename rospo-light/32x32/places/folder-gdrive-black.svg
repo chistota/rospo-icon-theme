@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg16"
-   sodipodi:docname="folder-gdrive.svg"
+   sodipodi:docname="folder-gdrive-black.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -42,7 +42,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="7.375"
-     inkscape:cx="-37.423728"
+     inkscape:cx="-63.18644"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,7 +55,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
      d="m 14.25,13.127119 3,5 h 4 l -3.334,-5 z m -0.699,0.6 -2.801,5.4 1.9,3 2.6,-5.4 z m 1.699,5.4 -1.5,3 h 6 l 1.5,-3 z"
      id="path14"
      inkscape:connector-curvature="0" />

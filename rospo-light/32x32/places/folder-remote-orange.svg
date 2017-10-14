@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="folder_extraicons_orange_remote.svg"
+   sodipodi:docname="folder-remote-orange.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,7 +53,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
      d="m 15.5,13.762712 c -1.676,0.32 -2.658,1.434 -3,3 h -2 v 2 h 2 c 0.343,1.565 1.325,2.68 3,3 z m 1,0 v 8 c 1.675,-0.32 2.657,-1.435 3,-3 h 2 v -2 h -2 c -0.342,-1.566 -1.324,-2.68 -3,-3 z"
      id="path14"
      inkscape:connector-curvature="0" />

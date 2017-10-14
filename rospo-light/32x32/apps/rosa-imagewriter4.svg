@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="12.954213"
+     inkscape:cx="0.072857068"
      inkscape:cy="8.9840593"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -128,58 +128,61 @@
        d="m -23.60169,20.933093 c 9.45743,-2.051156 10.891126,-8.834554 13.7404222,-14.7830566 -0.066263,5.6923196 0.638695,12.5965586 -1.9519942,14.3219236 -5.270491,4.452848 -8.661705,2.880952 -11.788428,0.461133 z"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
+  <path
+     style="fill:#b7b7b7;stroke-width:0.38163531"
+     inkscape:connector-curvature="0"
+     d="m 26.478895,27.807678 h -7.632706 v -3.816353 h 7.632706 z"
+     id="path2" />
+  <rect
+     rx="0.53428942"
+     ry="0.54077727"
+     height="6.4878001"
+     width="10.685789"
+     y="-24.372961"
+     x="-28.005436"
+     id="rect4"
+     style="fill:#999999;fill-opacity:1;stroke-width:0.38163531"
+     transform="scale(-1)" />
   <g
-     id="g4529"
+     style="opacity:1;fill:#808080"
+     id="g12"
      transform="matrix(-0.38163531,0,0,-0.38163531,28.768707,28.952584)">
-    <path
-       id="path2"
-       d="M 6,3 H 26 V 13 H 6 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#b7b7b7" />
     <rect
-       style="fill:#999999;fill-opacity:1"
-       id="rect4"
-       x="2"
-       y="12"
-       width="28"
-       height="17"
-       ry="1.4170001"
-       rx="1.4" />
-    <g
-       id="g12"
-       style="opacity:0.4">
-      <rect
-         id="rect6"
-         height="2"
-         x="8"
-         width="16"
-         y="16" />
-      <rect
-         id="rect8"
-         height="2"
-         x="10"
-         width="12"
-         y="20" />
-      <rect
-         id="rect10"
-         height="2"
-         x="12"
-         width="8"
-         y="24" />
-    </g>
-    <rect
-       id="rect24"
+       y="16"
+       width="16"
        x="8"
-       y="5"
-       width="5"
-       height="3"
-       style="opacity:0.5" />
+       height="2"
+       id="rect6"
+       style="fill:#808080" />
     <rect
-       id="rect26"
-       x="19"
-       y="5"
-       width="5"
-       height="3"
-       style="opacity:0.5" />
+       y="20"
+       width="12"
+       x="10"
+       height="2"
+       id="rect8"
+       style="fill:#808080" />
+    <rect
+       y="24"
+       width="8"
+       x="12"
+       height="2"
+       id="rect10"
+       style="fill:#808080" />
   </g>
+  <rect
+     style="opacity:1;stroke-width:0.38163531;fill:#808080"
+     height="1.1449059"
+     width="1.9081765"
+     y="-27.044407"
+     x="-25.715624"
+     id="rect24"
+     transform="scale(-1)" />
+  <rect
+     style="opacity:1;stroke-width:0.38163531;fill:#808080"
+     height="1.1449059"
+     width="1.9081765"
+     y="-27.044407"
+     x="-21.517635"
+     id="rect26"
+     transform="scale(-1)" />
 </svg>

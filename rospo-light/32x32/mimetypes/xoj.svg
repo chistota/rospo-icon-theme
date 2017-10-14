@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg20"
-   sodipodi:docname="application-x-xoj.svg"
+   sodipodi:docname="application-x-macbinary.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata26">
@@ -40,7 +40,7 @@
      id="namedview22"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="17.220339"
+     inkscape:cx="-8.5423729"
      inkscape:cy="14.779661"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -62,14 +62,17 @@
   </g>
   <g
      transform="matrix(0.6459,0,0,0.6459,5.6972114,-652.32368)"
-     id="g18">
+     id="g18"
+     style="fill:#999999">
     <g
-       id="g16">
+       id="g16"
+       style="fill:#999999">
       <g
          transform="translate(-0.01281,0.0213)"
-         id="g14">
+         id="g14"
+         style="fill:#999999">
         <path
-           style="opacity:0.5"
+           style="opacity:0.5;fill:#999999"
            d="m 8.9804688,1027.8359 a 1.5481548,1.5481548 0 0 0 -1.078125,2.6582 l 5.8730472,5.8731 -5.8730472,5.873 a 1.5481548,1.5481548 0 1 0 2.1894532,2.1875 l 5.873047,-5.873 5.871094,5.873 a 1.5481548,1.5481548 0 1 0 2.189453,-2.1875 l -5.873047,-5.873 5.873047,-5.8731 a 1.5481583,1.5481583 0 1 0 -2.189453,-2.1894 l -5.871094,5.873 -5.873047,-5.873 a 1.5481548,1.5481548 0 0 0 -1.1113282,-0.4688 z"
            id="path12"
            inkscape:connector-curvature="0" />

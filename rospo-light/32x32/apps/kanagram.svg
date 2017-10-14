@@ -40,7 +40,7 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="8.9375"
-     inkscape:cx="-5.3706294"
+     inkscape:cx="-26.629371"
      inkscape:cy="16"
      inkscape:current-layer="svg14" />
   <rect
@@ -57,14 +57,16 @@
   <g
      id="g10"
      transform="translate(-0.5,-2e-4)"
-     style="opacity:0.8;fill:#ffffff">
+     style="opacity:1;fill:#ffffff;fill-opacity:0.79116464">
     <path
        d="m 7,11 h 2.6352 v 3.6504 l 3.7988,-3.65 h 3.059 l -4.921,4.735 5.428,5.265 h -3.299 l -4.0658,-3.938 v 3.938 H 7 v -10 z"
        id="path6"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.79116464" />
     <path
        d="M 26,20.096 Q 24.992,20.548 23.906,20.774 22.821,21 21.665,21 19.053,21 17.527,19.657 16,18.308 16,16.003 16,13.673 17.555,12.336 19.109,11 21.812,11 q 1.0434,0 1.9958,0.18076 0.95938,0.18076 1.8067,0.53583 v 1.9948 q -0.87535,-0.45836 -1.7437,-0.68431 -0.86134,-0.22595 -1.7297,-0.22595 -1.6106,0 -2.486,0.8328 -0.86835,0.82634 -0.86835,2.3693 0,1.53 0.84034,2.3628 0.84034,0.8328 2.388,0.8328 0.42017,0 0.77731,-0.0452 0.36415,-0.05165 0.65126,-0.15494 v -1.8722 h -1.6457 v -1.6656 h 4.2017 v 4.6352 z"
        id="path8"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.79116464" />
   </g>
 </svg>

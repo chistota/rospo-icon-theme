@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg16"
-   sodipodi:docname="application-x-awk.svg"
+   sodipodi:docname="application-x-perl.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -40,8 +40,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-33.355932"
-     inkscape:cy="16"
+     inkscape:cx="-31.457627"
+     inkscape:cy="19.118644"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
        style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <path
-     style="opacity:0.17600002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 30,10.813019 21.186981,2.0000001 v 3.2789473 c 0,3.0664059 2.467666,5.5340716 5.534072,5.5340716 z"
      id="rect4497-3"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffffff;stroke-width:1.21694911"
-     d="m 22.084746,21.211865 h -1.216949 v 1.216949 h 1.216949 z m 0,-7.301695 h -1.216949 v 6.084746 h 1.216949 z m -9.735593,2.433898 h 2.433898 v 3.650848 h -2.433898 z m -1.21695,-2.433898 v 1.216949 H 9.915254 v 1.216949 h 1.216949 v 3.650848 H 9.915254 v 1.216949 h 1.216949 v 1.216949 h 1.21695 v -1.216949 h 2.433898 v 1.216949 H 16 v -1.216949 h 1.216949 V 19.994916 H 16 v -3.650848 h 1.216949 V 15.127119 H 16 V 13.91017 h -1.216949 v 1.216949 H 12.349153 V 13.91017 Z"
+     style="fill:#cccccc;stroke-width:1.21694911"
+     d="m 22.084746,20.262712 h -1.216949 v 1.216949 h 1.216949 z m 0,-7.301695 h -1.216949 v 6.084746 h 1.216949 z m -9.735593,2.433898 h 2.433898 v 3.650848 h -2.433898 z m -1.21695,-2.433898 v 1.216949 H 9.915254 v 1.216949 h 1.216949 v 3.650848 H 9.915254 v 1.216949 h 1.216949 v 1.216949 h 1.21695 v -1.216949 h 2.433898 v 1.216949 H 16 v -1.216949 h 1.216949 V 19.045763 H 16 v -3.650848 h 1.216949 V 14.177966 H 16 v -1.216949 h -1.216949 v 1.216949 h -2.433898 v -1.216949 z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

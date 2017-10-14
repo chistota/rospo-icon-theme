@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="stock_dialog-info.svg"
+   sodipodi:docname="dialog-information.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-9.8983051"
+     inkscape:cx="-35.661017"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -73,15 +73,13 @@
      width="28.203388"
      id="rect4495"
      style="opacity:1;fill:#30a3db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <text
-     id="text4499"
-     y="24.57052"
-     x="12.308084"
+  <g
+     aria-label="i"
      style="font-style:normal;font-weight:normal;font-size:23.97348595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
-     xml:space="preserve"><tspan
+     id="text4499">
+    <path
+       d="m 13.195103,13.135168 v 0.599337 l 0.910992,0.119867 c 0.623311,0.09589 0.767152,0.215762 0.767152,1.078807 v 7.551648 c 0,1.222648 -0.07192,1.270595 -1.798012,1.390462 v 0.695231 h 5.849531 V 23.875289 C 17.222648,23.755422 17.126754,23.707475 17.126754,22.484827 V 12.679671 L 16.95894,12.53583 Z m 2.780924,-5.7056901 c -0.863046,0 -1.462383,0.6233107 -1.462383,1.4863562 0,0.839072 0.599337,1.4384089 1.462383,1.4384089 0.887019,0 1.438409,-0.5993369 1.462383,-1.4384089 0,-0.8630455 -0.575364,-1.4863562 -1.462383,-1.4863562 z"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Utopia;-inkscape-font-specification:Utopia;fill:#ffffff;fill-opacity:1;stroke-width:1"
-       y="24.57052"
-       x="12.308084"
-       id="tspan4497"
-       sodipodi:role="line">i</tspan></text>
+       id="path4487" />
+  </g>
 </svg>

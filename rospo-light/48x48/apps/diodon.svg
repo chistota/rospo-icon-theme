@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(60%,60%,60%);fill-opacity:1;" d="M 18.667969 7.808594 L 18.667969 6.867188 L 29.96875 6.867188 L 29.96875 7.808594 Z M 18.667969 7.808594 "/>
+</g>
+<clipPath id="clip2">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(60%,60%,60%);fill-opacity:1;" d="M 18.667969 10.632812 L 18.667969 9.691406 L 29.96875 9.691406 L 29.96875 10.632812 Z M 18.667969 10.632812 "/>
+</g>
+<clipPath id="clip3">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface12" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(60%,60%,60%);fill-opacity:1;" d="M 18.667969 13.460938 L 18.667969 12.519531 L 29.96875 12.519531 L 29.96875 13.460938 Z M 18.667969 13.460938 "/>
+</g>
+<clipPath id="clip4">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface15" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(60%,60%,60%);fill-opacity:1;" d="M 18.667969 16.285156 L 18.667969 15.34375 L 26.203125 15.34375 L 26.203125 16.285156 Z M 18.667969 16.285156 "/>
+</g>
+<clipPath id="clip5">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface18" clip-path="url(#clip5)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 6.175781 19.914062 L 6.175781 18.929688 L 17.953125 18.929688 L 17.953125 19.914062 Z M 6.175781 19.914062 "/>
+</g>
+<clipPath id="clip6">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface21" clip-path="url(#clip6)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 6.175781 22.859375 L 6.175781 21.875 L 17.953125 21.875 L 17.953125 22.859375 Z M 6.175781 22.859375 "/>
+</g>
+<clipPath id="clip7">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface24" clip-path="url(#clip7)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 6.175781 25.804688 L 6.175781 24.820312 L 17.953125 24.820312 L 17.953125 25.804688 Z M 6.175781 25.804688 "/>
+</g>
+<clipPath id="clip8">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface27" clip-path="url(#clip8)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 6.175781 28.75 L 6.175781 27.765625 L 14.027344 27.765625 L 14.027344 28.75 Z M 6.175781 28.75 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(60%,60%,60%);fill-opacity:1;" d="M 21.582031 20.59375 L 21.582031 33.863281 L 27.589844 33.863281 C 31.066406 33.863281 33.863281 31.066406 33.863281 27.589844 L 33.863281 20.59375 Z M 21.582031 20.59375 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(60%,60%,60%);fill-opacity:1;" d="M 15.101562 2.136719 L 8.40625 2.136719 C 4.933594 2.136719 2.136719 4.933594 2.136719 8.40625 L 2.136719 14.335938 L 15.101562 14.335938 Z M 15.101562 2.136719 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(76.078431%,76.078431%,76.078431%);fill-opacity:1;" d="M 15.101562 2.136719 L 15.101562 14.335938 L 21.582031 14.335938 L 21.582031 20.59375 L 33.863281 20.59375 L 33.863281 8.40625 C 33.863281 4.933594 31.066406 2.136719 27.589844 2.136719 Z M 15.101562 2.136719 "/>
+<use xlink:href="#surface6"/>
+<use xlink:href="#surface9"/>
+<use xlink:href="#surface12"/>
+<use xlink:href="#surface15"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(82.745098%,82.745098%,82.745098%);fill-opacity:1;" d="M 21.582031 33.863281 L 21.582031 14.335938 L 2.136719 14.335938 L 2.136719 27.589844 C 2.136719 31.066406 4.933594 33.863281 8.40625 33.863281 Z M 21.582031 33.863281 "/>
+<use xlink:href="#surface18"/>
+<use xlink:href="#surface21"/>
+<use xlink:href="#surface24"/>
+<use xlink:href="#surface27"/>
+</g>
+</svg>

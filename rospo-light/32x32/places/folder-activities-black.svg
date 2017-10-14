@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg22"
-   sodipodi:docname="folder-activities.svg"
+   sodipodi:docname="folder-activities-black.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata28">
@@ -40,7 +40,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-37.423728"
+     inkscape:cx="-41.627118"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -52,26 +52,22 @@
      id="rect4549-3"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
-  <g
-     id="g20"
-     transform="translate(0.40678,-1.4915254)">
-    <circle
-       style="opacity:0.65"
-       cx="11.5"
-       cy="19.5"
-       r="1.5"
-       id="circle14" />
-    <circle
-       style="opacity:0.65"
-       cx="15.5"
-       cy="19.5"
-       r="1.5"
-       id="circle16" />
-    <circle
-       style="opacity:0.65"
-       cx="19.5"
-       cy="19.5"
-       r="1.5"
-       id="circle18" />
-  </g>
+  <circle
+     id="circle14"
+     r="1.5"
+     cy="18.008474"
+     cx="11.90678"
+     style="opacity:1;fill:#1a1a1a" />
+  <circle
+     id="circle16"
+     r="1.5"
+     cy="18.008474"
+     cx="15.90678"
+     style="opacity:1;fill:#1a1a1a" />
+  <circle
+     id="circle18"
+     r="1.5"
+     cy="18.008474"
+     cx="19.90678"
+     style="opacity:1;fill:#1a1a1a" />
 </svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(55.686275%,55.686275%,55.686275%);fill-opacity:1;" d="M 11.207031 2.847656 L 36.792969 2.847656 C 41.40625 2.847656 45.152344 6.59375 45.152344 11.207031 L 45.152344 36.792969 C 45.152344 41.40625 41.40625 45.152344 36.792969 45.152344 L 11.207031 45.152344 C 6.59375 45.152344 2.847656 41.40625 2.847656 36.792969 L 2.847656 11.207031 C 2.847656 6.59375 6.59375 2.847656 11.207031 2.847656 Z M 11.207031 2.847656 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 7.875 30.75 L 20.625 30.75 C 21.660156 30.75 22.5 31.589844 22.5 32.625 L 22.5 37.875 C 22.5 38.910156 21.660156 39.75 20.625 39.75 L 7.875 39.75 C 6.839844 39.75 6 38.910156 6 37.875 L 6 32.625 C 6 31.589844 6.839844 30.75 7.875 30.75 Z M 7.875 30.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 27.375 30.75 L 40.125 30.75 C 41.160156 30.75 42 31.589844 42 32.625 L 42 37.875 C 42 38.910156 41.160156 39.75 40.125 39.75 L 27.375 39.75 C 26.339844 39.75 25.5 38.910156 25.5 37.875 L 25.5 32.625 C 25.5 31.589844 26.339844 30.75 27.375 30.75 Z M 27.375 30.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 36 8.25 L 42 8.25 L 42 9.75 L 36 9.75 Z M 36 8.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 36 11.25 L 42 11.25 L 42 12.75 L 36 12.75 Z M 36 11.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 36 14.25 L 42 14.25 L 42 15.75 L 36 15.75 Z M 36 14.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 36 17.25 L 42 17.25 L 42 18.75 L 36 18.75 Z M 36 17.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 36 20.25 L 42 20.25 L 42 21.75 L 36 21.75 Z M 36 20.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,40%,40%);fill-opacity:1;" d="M 36 23.25 L 42 23.25 L 42 24.75 L 36 24.75 Z M 36 23.25 "/>
+</g>
+</svg>

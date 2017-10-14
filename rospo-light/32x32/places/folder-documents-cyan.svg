@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="folder_color_cyan_documents.svg"
+   sodipodi:docname="folder-documents-cyan.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-37.423728"
+     inkscape:cx="-63.18644"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,7 +54,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65;enable-background:new"
+     style="opacity:1;enable-background:new;fill:#000000;fill-opacity:0.65098041"
      d="m 12.000648,13.023652 v 8.6663 c 0,0.666 0.666,0.666 0.666,0.666 h 6.6604 c 0.66604,0 0.66604,-0.66664 0.66604,-0.66664 0.01253,-0.03067 0.0034,-4.9683 0,-6.6664 l -2.664,-2.667 h -4.662 c 0,0 -0.66658,0 -0.66658,0.66711 z"
      id="path14"
      inkscape:connector-curvature="0" />

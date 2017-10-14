@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,38 +41,29 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-10.711864"
+     inkscape:cx="-36.474576"
      inkscape:cy="5.1525424"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <g
-     id="g4515"
-     transform="translate(0,-6.2372879)">
-    <path
-       sodipodi:nodetypes="sssssscsssscs"
-       inkscape:connector-curvature="0"
-       id="rect4549-3-7"
-       d="m 27.90368,12.964418 c 1.168734,-7.39e-4 2.109629,0.940894 2.109629,2.109629 v 17.610521 c 0,1.168735 -0.940895,2.109629 -2.109629,2.109629 H 4.09632 c -1.168734,0 -2.109682,-0.940894 -2.109629,-2.109629 l 7.31e-4,-16.244508 7.31e-4,-5.066908 c 0,-0.937796 0.754977,-1.6927732 1.692774,-1.6927732 h 9.09082 c 0.937797,0 1.704839,0.3713212 2.299888,1.0961522 l 1.801865,2.19486 z"
-       style="opacity:0.98999999;fill:#e25252;fill-opacity:1;stroke:none;stroke-width:0.14515875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="g4495"
+     transform="translate(40.135593,-4.6101697)">
     <rect
-       id="rect8-5"
+       id="rect8"
        ry="1.4583082"
        rx="1.4583082"
-       y="15.42582"
-       x="3.7502098"
+       y="9.1965141"
+       x="-36.409351"
        height="11.666466"
        width="24.49958"
        style="fill:#dcdcdc;stroke-width:1.1666466" />
-    <rect
-       ry="0"
-       rx="1.3779941"
-       y="21.192255"
-       x="2.3228254"
-       height="9.7627115"
-       width="27.354349"
-       id="rect4503-3"
-       style="opacity:0.98999999;fill:#e25252;fill-opacity:1;stroke:none;stroke-width:1.04995012" />
+    <path
+       sodipodi:nodetypes="sssssscsssscs"
+       inkscape:connector-curvature="0"
+       id="rect4549-3"
+       d="m -12.231913,11.337299 c 1.168734,-7.39e-4 2.109629,0.940894 2.109629,2.109629 V 31.05745 c 0,1.168735 -0.940895,2.109629 -2.109629,2.109629 h -23.80736 c -1.168734,0 -2.109682,-0.940894 -2.109629,-2.109629 l 7.31e-4,-16.244507 7.31e-4,-5.0669096 c 0,-0.937796 0.754977,-1.692773 1.692774,-1.692773 h 9.09082 c 0.937797,0 1.704839,0.371321 2.299888,1.096152 l 1.801865,2.1948596 z"
+       style="fill:#e25252;fill-opacity:1;stroke:none;stroke-width:0.14515875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

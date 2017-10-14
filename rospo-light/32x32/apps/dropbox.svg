@@ -12,7 +12,7 @@
    width="32"
    version="1"
    id="svg51"
-   sodipodi:docname="caja-dropbox.svg"
+   sodipodi:docname="dropbox.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata55">
@@ -39,7 +39,7 @@
      id="namedview53"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="7.5084133"
+     inkscape:cx="-5.3729426"
      inkscape:cy="9.7327585"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,7 @@
        xlink:href="#linearGradient3681"
        gradientUnits="userSpaceOnUse"
        y1="21"
-       gradientTransform="matrix(-0.54579274,0,0,0.55038512,29.099087,2.1303781)"
+       gradientTransform="matrix(-0.54579274,0,0,0.55038512,29.099087,3.1473273)"
        x2="28.615"
        y2="25.313" />
     <linearGradient
@@ -84,53 +84,49 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
+  <path
+     d="M 22.164276,20.592229 20.466789,21.297268 16,18.558018 11.559024,21.066108 9.8357236,20.82339 v 2.396285 L 16,27.033821 22.164276,23.219675 Z"
+     id="path11"
+     inkscape:connector-curvature="0"
+     style="fill:#3785f2;fill-opacity:1;stroke-width:0.77053457" />
+  <path
+     d="m 16,18.558018 v 8.47588 l 6.164276,-3.852673 v -2.311603 l -1.762135,0.96363 z"
+     id="path13"
+     style="opacity:1;fill:#1772ed;fill-opacity:1;stroke-width:0.77053457"
+     inkscape:connector-curvature="0" />
   <g
-     id="g4547"
-     transform="translate(0,1.0169492)">
+     id="g33"
+     transform="matrix(0.77053455,0,0,0.77053455,3.6714472,4.6883964)"
+     style="fill:#ffffff">
     <path
-       style="fill:#3785f2;fill-opacity:1;stroke-width:0.77053457"
+       d="M 7.5,13 16,8 10,3 2,8.5 Z"
+       id="path25"
        inkscape:connector-curvature="0"
-       id="path11"
-       d="M 22.164276,19.57528 20.466789,20.280319 16,17.541069 11.559024,20.049159 9.8357236,19.806441 v 2.396285 L 16,26.016872 22.164276,22.202726 Z" />
+       style="fill:#ffffff" />
     <path
+       d="M 16,18 7.5,13 2,17.5 10,23 Z"
+       id="path27"
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#1772ed;fill-opacity:1;stroke-width:0.77053457"
-       id="path13"
-       d="m 16,17.541069 v 8.47588 l 6.164276,-3.852673 v -2.311603 l -1.762135,0.96363 z" />
-    <g
-       style="fill:#ffffff"
-       transform="matrix(0.77053455,0,0,0.77053455,3.6714472,3.6714472)"
-       id="g33">
-      <path
-         style="fill:#ffffff"
-         inkscape:connector-curvature="0"
-         id="path25"
-         d="M 7.5,13 16,8 10,3 2,8.5 Z" />
-      <path
-         style="fill:#ffffff"
-         inkscape:connector-curvature="0"
-         id="path27"
-         d="M 16,18 7.5,13 2,17.5 10,23 Z" />
-      <path
-         style="fill:#ffffff"
-         inkscape:connector-curvature="0"
-         id="path29"
-         d="M 30,17.5 24.5,13 16,18 l 6,4.834 z" />
-      <path
-         style="fill:#ffffff"
-         inkscape:connector-curvature="0"
-         id="path31"
-         d="M 16,8 24.5,13 30,8.5 22,3 Z" />
-    </g>
+       style="fill:#ffffff" />
     <path
-       style="fill:#6db2e8;stroke-width:0.77053457"
+       d="M 30,17.5 24.5,13 16,18 l 6,4.834 z"
+       id="path29"
        inkscape:connector-curvature="0"
-       id="path35"
-       d="M 22.549544,13.688396 16,17.541069 9.4504563,13.688396 16,9.8357236 Z" />
+       style="fill:#ffffff" />
     <path
+       d="M 16,8 24.5,13 30,8.5 22,3 Z"
+       id="path31"
        inkscape:connector-curvature="0"
-       style="opacity:0.05;fill:url(#linearGradient4517);stroke-width:0.77053457"
-       id="path37"
-       d="M 9.4504563,13.688396 16,17.541069 V 9.8357236 Z" />
+       style="fill:#ffffff" />
   </g>
+  <path
+     d="M 22.549544,14.705345 16,18.558018 9.4504563,14.705345 16,10.852673 Z"
+     id="path35"
+     inkscape:connector-curvature="0"
+     style="fill:#6db2e8;stroke-width:0.77053457" />
+  <path
+     d="M 9.4504563,14.705345 16,18.558018 v -7.705345 z"
+     id="path37"
+     style="opacity:1;fill:#68aadd;stroke-width:0.77053457;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

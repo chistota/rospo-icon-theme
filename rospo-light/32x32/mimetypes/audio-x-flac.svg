@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 32 32"
    id="svg16"
-   sodipodi:docname="audio-x-caf.svg"
+   sodipodi:docname="audio-m4a.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -41,8 +41,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
-     inkscape:cy="16"
+     inkscape:cx="-19.389831"
+     inkscape:cy="17.491525"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
        style="opacity:1;fill:#b1b527;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <path
-     style="opacity:0.17600002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#9b9f10;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 30,10.813019 21.186981,2 v 3.2789473 c 0,3.0664059 2.467666,5.5340717 5.534072,5.5340717 z"
      id="rect4497-3"
      inkscape:connector-curvature="0" />
   <path
-     d="m 12.864386,11.898324 -4.4e-5,0.5 v 6.5 c 0,0 -0.15572,3.85e-4 -0.49996,-9e-6 -1.3807,0 -2.5000002,1.1193 -2.5000002,2.5 0,1.3807 1.1193002,2.5 2.5000002,2.5 1.3622,-8.35e-4 2.473,-1.0921 2.498,-2.4541 l 0.002,-0.0039 v -6.542 h 5 v 4 c 0,0 -0.15572,3.94e-4 -0.49995,0 -1.3807,0 -2.5,1.1193 -2.5,2.5 0,1.3807 1.1193,2.5 2.5,2.5 1.3311,-0.0015 2.4276,-1.0456 2.4941,-2.375 l 0.0059,-0.01172 v -9.6133 h -9 z"
+     d="m 12.18642,10.677985 -4.4e-5,0.5 v 6.5 c 0,0 -0.15572,3.85e-4 -0.49996,-9e-6 -1.3807,0 -2.5000004,1.1193 -2.5000004,2.5 0,1.3807 1.1193004,2.5 2.5000004,2.5 1.3622,-8.35e-4 2.473,-1.0921 2.498,-2.4541 l 0.002,-0.0039 v -6.542 h 5 v 4 c 0,0 -0.15572,3.94e-4 -0.49995,0 -1.3807,0 -2.5,1.1193 -2.5,2.5 0,1.3807 1.1193,2.5 2.5,2.5 1.3311,-0.0015 2.4276,-1.0456 2.4941,-2.375 l 0.0059,-0.01172 v -9.6133 h -9 z"
      id="path12"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;stroke-width:3" />
+     style="fill:#e4f07a;stroke-width:3;fill-opacity:1" />
 </svg>

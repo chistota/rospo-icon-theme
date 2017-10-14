@@ -40,7 +40,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="8.9375"
-     inkscape:cx="-26.741259"
+     inkscape:cx="-48"
      inkscape:cy="16"
      inkscape:current-layer="svg25">
     <sodipodi:guide
@@ -86,5 +86,5 @@
      d="m 13.5,10 v 7.051 A 2.5,2.5 0 0 0 13,17 2.5,2.5 0 0 0 10.5,19.5 2.5,2.5 0 0 0 13,22 2.5,2.5 0 0 0 15.5,19.5 V 12 h 4 v 3.051 A 2.5,2.5 0 0 0 19,15 2.5,2.5 0 0 0 16.5,17.5 2.5,2.5 0 0 0 19,20 2.5,2.5 0 0 0 21.5,17.5 V 10 Z"
      id="path19"
      inkscape:connector-curvature="0"
-     style="opacity:0.8" />
+     style="opacity:1;fill:#333333" />
 </svg>

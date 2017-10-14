@@ -40,7 +40,7 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="8.8125"
-     inkscape:cx="-5.5602837"
+     inkscape:cx="-27.120567"
      inkscape:cy="16"
      inkscape:current-layer="svg14" />
   <rect
@@ -55,7 +55,7 @@
      d="M 15,2.0000003 V 15 H 2 v 2 h 13 v 13 h 2 V 17 H 30 V 15 H 17 V 2.0000003 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="opacity:0.1" />
+     style="opacity:1;fill:#ad8152;fill-opacity:1" />
   <circle
      cy="23.035461"
      cx="23.262411"

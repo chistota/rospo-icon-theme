@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg64"
-   sodipodi:docname="bless.svg"
+   sodipodi:docname="ghex.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata70">
@@ -39,9 +39,9 @@
      inkscape:window-height="963"
      id="namedview66"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="10.276449"
-     inkscape:cy="7.4236994"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-12.161332"
+     inkscape:cy="11.510118"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -174,16 +174,17 @@
   </g>
   <g
      id="g4555"
-     transform="matrix(0.625,0,0,0.625,7.7190933,8.1184542)">
+     transform="matrix(0.75,0,0,0.75,3.8931644,4.7878708)"
+     style="stroke-width:0.83333331">
     <circle
        id="circle58"
        r="8"
        cy="23"
        cx="24"
-       style="fill:#f34235;fill-rule:evenodd;enable-background:new" />
+       style="fill:#f34235;fill-rule:evenodd;stroke-width:0.83333331;enable-background:new" />
     <path
        id="path60"
-       style="fill:#ffffff;enable-background:new"
+       style="fill:#ffffff;stroke-width:0.83333331;enable-background:new"
        d="M 20,25.218 V 27 h 1.7819 l 4.5004,-4.5004 -1.7819,-1.7819 z m 7.8586,-4.2891 c 0.18848,-0.18847 0.18848,-0.48545 0,-0.67393 l -1.1137,-1.1137 c -0.18848,-0.18848 -0.48546,-0.18848 -0.67393,0 l -0.931,0.937 1.782,1.782 z"
        inkscape:connector-curvature="0" />
   </g>

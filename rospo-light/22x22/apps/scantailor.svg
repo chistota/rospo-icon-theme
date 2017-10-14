@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(83.529412%,70.196078%,50.196078%);fill-opacity:1;" d="M 3.734375 0.949219 L 12.265625 0.949219 C 13.800781 0.949219 15.050781 2.199219 15.050781 3.734375 L 15.050781 12.265625 C 15.050781 13.800781 13.800781 15.050781 12.265625 15.050781 L 3.734375 15.050781 C 2.199219 15.050781 0.949219 13.800781 0.949219 12.265625 L 0.949219 3.734375 C 0.949219 2.199219 2.199219 0.949219 3.734375 0.949219 Z M 3.734375 0.949219 "/>
+<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,25.490196%,25.490196%);stroke-opacity:1;stroke-miterlimit:4;" d="M 4.9965 21.5 C 4.9965 21.5 6.613688 21.5 8.699625 21.5 C 10.785562 21.5 11.4965 20.796875 11.4965 19.398438 C 11.4965 13.59375 6.4965 19.390625 6.4965 13.601562 C 6.480875 12.1875 6.582438 11.5 8.699625 11.5 L 12.9965 11.5 " transform="matrix(0.5,0,0,0.5,0.00175,-0.75)"/>
+<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 19.9965 15.5 L 26.9965 15.5 M 23.4965 23 L 23.4965 15.5 " transform="matrix(0.5,0,0,0.5,0.00175,-0.75)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.784314%,20.784314%,20.784314%);fill-opacity:1;" d="M 8 7.25 L 8.5 7.25 L 8.5 8.75 L 8 8.75 Z M 8 7.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.784314%,20.784314%,20.784314%);fill-opacity:1;" d="M 8 5.25 L 8.5 5.25 L 8.5 6.75 L 8 6.75 Z M 8 5.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.784314%,20.784314%,20.784314%);fill-opacity:1;" d="M 8 3.25 L 8.5 3.25 L 8.5 4.75 L 8 4.75 Z M 8 3.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.784314%,20.784314%,20.784314%);fill-opacity:1;" d="M 8 11.25 L 8.5 11.25 L 8.5 12.75 L 8 12.75 Z M 8 11.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.784314%,20.784314%,20.784314%);fill-opacity:1;" d="M 8 9.25 L 8.5 9.25 L 8.5 10.75 L 8 10.75 Z M 8 9.25 "/>
+</g>
+</svg>

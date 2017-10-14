@@ -40,9 +40,9 @@
      inkscape:window-height="971"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="15.493775"
-     inkscape:cy="4.5270624"
+     inkscape:zoom="20.85965"
+     inkscape:cx="-8.0071604"
+     inkscape:cy="14.646717"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,58 +55,58 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
+  <path
+     style="fill:#b7b7b7;stroke-width:0.61184996"
+     inkscape:connector-curvature="0"
+     d="M 9.8815002,8.0459503 H 22.1185 V 14.16445 H 9.8815002 Z"
+     id="path2" />
+  <rect
+     rx="0.85658997"
+     ry="0.86699146"
+     height="10.40145"
+     width="17.1318"
+     y="13.5526"
+     x="7.4341002"
+     id="rect4"
+     style="fill:#999999;fill-opacity:1;stroke-width:0.61184996" />
   <g
-     id="g4529"
+     style="opacity:1;fill:#666666"
+     id="g12"
      transform="matrix(0.61184999,0,0,0.61184999,6.2104003,6.2104003)">
-    <path
-       id="path2"
-       d="M 6,3 H 26 V 13 H 6 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#b7b7b7" />
     <rect
-       style="fill:#999999;fill-opacity:1"
-       id="rect4"
-       x="2"
-       y="12"
-       width="28"
-       height="17"
-       ry="1.4170001"
-       rx="1.4" />
-    <g
-       id="g12"
-       style="opacity:0.4">
-      <rect
-         id="rect6"
-         height="2"
-         x="8"
-         width="16"
-         y="16" />
-      <rect
-         id="rect8"
-         height="2"
-         x="10"
-         width="12"
-         y="20" />
-      <rect
-         id="rect10"
-         height="2"
-         x="12"
-         width="8"
-         y="24" />
-    </g>
-    <rect
-       id="rect24"
+       y="16"
+       width="16"
        x="8"
-       y="5"
-       width="5"
-       height="3"
-       style="opacity:0.5" />
+       height="2"
+       id="rect6"
+       style="fill:#666666" />
     <rect
-       id="rect26"
-       x="19"
-       y="5"
-       width="5"
-       height="3"
-       style="opacity:0.5" />
+       y="20"
+       width="12"
+       x="10"
+       height="2"
+       id="rect8"
+       style="fill:#666666" />
+    <rect
+       y="24"
+       width="8"
+       x="12"
+       height="2"
+       id="rect10"
+       style="fill:#666666" />
   </g>
+  <rect
+     style="opacity:1;stroke-width:0.61184996;fill:#666666"
+     height="1.83555"
+     width="3.0592499"
+     y="9.2696505"
+     x="11.1052"
+     id="rect24" />
+  <rect
+     style="opacity:1;stroke-width:0.61184996;fill:#666666"
+     height="1.83555"
+     width="3.0592499"
+     y="9.2696505"
+     x="17.83555"
+     id="rect26" />
 </svg>

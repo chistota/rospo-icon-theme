@@ -40,8 +40,8 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-38.711864"
-     inkscape:cy="16"
+     inkscape:cx="17.288136"
+     inkscape:cy="17.355932"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,34 +52,31 @@
      id="rect4549-3"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path14"
+     d="m 10,11.491525 v 12 h 12 v -12 z"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098041" />
   <g
-     transform="translate(-15.5,10.491525)"
-     id="g24">
+     id="g22"
+     style="fill:#5294e2"
+     transform="translate(-15.5,10.491525)">
     <path
-       style="opacity:0.65"
-       d="m 25.5,1 v 12 h 12 V 1 Z"
-       id="path14"
-       inkscape:connector-curvature="0" />
-    <g
-       style="fill:#5294e2"
-       id="g22">
-      <path
-         style="fill:#5294e2"
-         d="m 32.5,8 h 4 v 1 h -4 z"
-         id="path16"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="fill:#5294e2"
-         width="1"
-         height="7"
-         x="28.5"
-         y="2"
-         id="rect18" />
-      <path
-         style="fill:#5294e2"
-         d="M 28,3 C 27.17,3 26.5,3.67 26.5,4.5 26.5,5.33 27.17,6 28,6 h 1.5 0.5 c 0.28,0 0.5,0.22 0.5,0.5 0,0.28 -0.22,0.51 -0.5,0.5 H 29.5 28 26.59 C 26.8,7.58 27.35,8 28,8 H 29.5 30 C 30.83,8 31.5,7.33 31.5,6.5 31.5,5.67 30.83,5 30,5 H 29.5 28 C 27.72,5 27.5,4.78 27.5,4.5 27.5,4.22 27.72,4 28,4 h 1.5 0.5 1.41 C 31.2,3.42 30.65,3 30,3 h -0.5 z"
-         id="path20"
-         inkscape:connector-curvature="0" />
-    </g>
+       inkscape:connector-curvature="0"
+       id="path16"
+       d="m 32.5,8 h 4 v 1 h -4 z"
+       style="fill:#5294e2" />
+    <rect
+       id="rect18"
+       y="2"
+       x="28.5"
+       height="7"
+       width="1"
+       style="fill:#5294e2" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20"
+       d="M 28,3 C 27.17,3 26.5,3.67 26.5,4.5 26.5,5.33 27.17,6 28,6 h 1.5 0.5 c 0.28,0 0.5,0.22 0.5,0.5 0,0.28 -0.22,0.51 -0.5,0.5 H 29.5 28 26.59 C 26.8,7.58 27.35,8 28,8 H 29.5 30 C 30.83,8 31.5,7.33 31.5,6.5 31.5,5.67 30.83,5 30,5 H 29.5 28 C 27.72,5 27.5,4.78 27.5,4.5 27.5,4.22 27.72,4 28,4 h 1.5 0.5 1.41 C 31.2,3.42 30.65,3 30,3 h -0.5 z"
+       style="fill:#5294e2" />
   </g>
 </svg>

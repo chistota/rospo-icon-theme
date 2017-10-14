@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg10"
-   sodipodi:docname="calligrasheets.svg"
+   sodipodi:docname="sheets.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata16">
@@ -40,7 +40,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,8 +55,8 @@
      y="1.8983059"
      ry="5.575182" />
   <path
-     style="opacity:0.5;stroke-width:1.3163842;filter:url(#filter14069);enable-background:new"
-     d="m 8.101695,22.581921 h 15.79661 V 9.4180789 H 8.101695 Z M 9.418079,10.734463 h 5.265537 v 2.632768 H 9.418079 Z m 6.581921,0 h 6.581921 v 2.632768 H 16 Z m -6.581921,3.949153 h 5.265537 v 2.632768 H 9.418079 Z m 6.581921,0 h 6.581921 v 2.632768 H 16 Z m -6.581921,3.949152 h 5.265537 v 2.632769 H 9.418079 Z m 6.581921,0 h 6.581921 v 2.632769 H 16 Z"
-     id="path8"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#33605f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.04599953;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 8.5,9.75 v 12.5 h 15 V 9.75 Z M 9.75,11 h 5 v 2.5 h -5 z m 6.246094,0 h 6.222656 v 2.5 h -6.222656 z m -6.242188,3.75 h 5 v 2.5 h -5 z M 16,14.75 h 6.222656 v 2.5 H 16 Z M 9.753906,18.5 h 5 V 21 h -5 z M 16,18.5 h 6.222656 V 21 H 16 Z"
+     id="rect4486" />
 </svg>

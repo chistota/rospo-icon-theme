@@ -40,7 +40,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="9.5"
-     inkscape:cx="-4.1052632"
+     inkscape:cx="-24.105263"
      inkscape:cy="16"
      inkscape:current-layer="svg24" />
   <rect
@@ -54,48 +54,44 @@
      inkscape:export-filename="/home/ramil/3.png"
      inkscape:export-xdpi="71"
      inkscape:export-ydpi="71" />
+  <path
+     style="opacity:1;fill:#164061;fill-opacity:1"
+     d="m 12.000001,24 -2,-2 H 6 V 8.0000001 H 26.000001 V 22 h -4 l -2,2 z"
+     id="path6"
+     inkscape:connector-curvature="0" />
   <g
-     id="g4521"
-     transform="translate(36.421053,1.1578948)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path6"
-       d="m -24.421052,22.842105 -2,-2 h -4.000001 V 6.8421053 h 20.000001 V 20.842105 h -4 l -2,2 z"
-       style="opacity:0.5" />
-    <g
-       id="g18"
-       transform="matrix(1,0,0,-1,-36.421053,-1.1578947)"
-       style="fill:#f8c44e">
-      <rect
-         id="rect8"
-         y="-10"
-         x="9"
-         height="2"
-         width="2" />
-      <rect
-         id="rect10"
-         y="-10"
-         x="12"
-         height="2"
-         width="2" />
-      <rect
-         id="rect12"
-         y="-10"
-         x="15"
-         height="2"
-         width="2" />
-      <rect
-         id="rect14"
-         y="-10"
-         x="18"
-         height="2"
-         width="2" />
-      <rect
-         id="rect16"
-         y="-10"
-         x="21"
-         height="2"
-         width="2" />
-    </g>
+     style="fill:#f8c44e"
+     transform="scale(1,-1)"
+     id="g18">
+    <rect
+       width="2"
+       height="2"
+       x="9"
+       y="-10"
+       id="rect8" />
+    <rect
+       width="2"
+       height="2"
+       x="12"
+       y="-10"
+       id="rect10" />
+    <rect
+       width="2"
+       height="2"
+       x="15"
+       y="-10"
+       id="rect12" />
+    <rect
+       width="2"
+       height="2"
+       x="18"
+       y="-10"
+       id="rect14" />
+    <rect
+       width="2"
+       height="2"
+       x="21"
+       y="-10"
+       id="rect16" />
   </g>
 </svg>

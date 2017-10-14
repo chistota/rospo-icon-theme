@@ -40,8 +40,8 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-37.423728"
-     inkscape:cy="16"
+     inkscape:cx="-9.6271178"
+     inkscape:cy="19.525424"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,44 +52,40 @@
      id="rect4549-3"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
-  <g
-     id="g22"
-     transform="translate(0.5,-0.73728814)">
-    <rect
-       style="opacity:0.65"
-       width="4"
-       height="4"
-       x="11"
-       y="14"
-       rx="0.625"
-       ry="0.625"
-       id="rect14" />
-    <rect
-       style="opacity:0.65"
-       width="4"
-       height="4"
-       x="16"
-       y="14"
-       rx="0.625"
-       ry="0.625"
-       id="rect16" />
-    <rect
-       style="opacity:0.65"
-       width="4"
-       height="4"
-       x="16"
-       y="19"
-       rx="0.625"
-       ry="0.625"
-       id="rect18" />
-    <rect
-       style="opacity:0.65"
-       width="4"
-       height="4"
-       x="11"
-       y="19"
-       rx="0.625"
-       ry="0.625"
-       id="rect20" />
-  </g>
+  <rect
+     id="rect14"
+     ry="0.625"
+     rx="0.625"
+     y="13.262712"
+     x="11.5"
+     height="4"
+     width="4"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098039" />
+  <rect
+     id="rect16"
+     ry="0.625"
+     rx="0.625"
+     y="13.262712"
+     x="16.5"
+     height="4"
+     width="4"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098039" />
+  <rect
+     id="rect18"
+     ry="0.625"
+     rx="0.625"
+     y="18.262712"
+     x="16.5"
+     height="4"
+     width="4"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098039" />
+  <rect
+     id="rect20"
+     ry="0.625"
+     rx="0.625"
+     y="18.262712"
+     x="11.5"
+     height="4"
+     width="4"
+     style="opacity:1;fill:#000000;fill-opacity:0.65098039" />
 </svg>

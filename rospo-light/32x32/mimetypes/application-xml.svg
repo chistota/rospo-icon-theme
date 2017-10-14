@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg14"
-   sodipodi:docname="text-xml.svg"
+   sodipodi:docname="application-metalink+xml.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata20">
@@ -40,8 +40,8 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-33.355932"
-     inkscape:cy="16"
+     inkscape:cx="7.8644068"
+     inkscape:cy="7.5932204"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,13 +52,13 @@
      id="path4508"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.17600002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 30,10.813019 21.186981,2 v 3.278947 c 0,3.0664057 2.467666,5.534072 5.534072,5.534072 z"
      id="rect4497-3"
      inkscape:connector-curvature="0" />
   <path
-     d="m 16.588,12.738712 -2.588,9.659 1.449,0.389 2.588,-9.659 z m 1.912,0.048 v 2 l 2.5,2.5 -2.5,2.5 v 2 l 5,-4.5 z m -5,1 -5.0000001,4.5 5.0000001,4.5 v -2 l -2.5,-2.5 2.5,-2.5 z"
+     d="m 16.588,11.925153 -2.588,9.659 1.449,0.389 2.588,-9.659 z m 1.912,0.048 v 2 l 2.5,2.5 -2.5,2.5 v 2 l 5,-4.5 z m -5,1 -5.0000001,4.5 5.0000001,4.5 v -2 l -2.5,-2.5 2.5,-2.5 z"
      id="path10"
      inkscape:connector-curvature="0"
-     style="opacity:0.5" />
+     style="opacity:1;fill:#999999;fill-opacity:1" />
 </svg>

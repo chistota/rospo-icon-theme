@@ -40,23 +40,25 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
-     inkscape:cy="16"
+     inkscape:cx="-13.559322"
+     inkscape:cy="17.084746"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
-  <rect
-     style="opacity:1;fill:#8b96d2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-3"
-     width="28.203388"
-     height="28.203388"
-     x="1.8983059"
-     y="1.8983059"
-     ry="5.575182" />
   <path
-     d="M 8.737288,9.3975349 V 10.718028 H 23.262712 V 9.3975349 Z m 0,3.9614791 v 1.320493 h 14.525424 v -1.320493 z m 0,3.961479 v 1.320493 h 14.525424 v -1.320493 z m 0,3.961479 v 1.320493 h 10.563945 v -1.320493 z"
+     style="opacity:1;fill:#8b96d2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 21.186981,2 H 7.536011 C 4.469605,2 2,4.4676667 2,7.5340725 V 24.463989 C 2,27.530395 4.469605,30 7.536011,30 H 24.465928 C 27.532334,30 30,27.530395 30,24.463989 v -13.65097 z"
+     id="path4508"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#7389c0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02788651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 30,10.813019 21.186981,2.000001 v 3.2789468 c 0,3.0664056 2.467666,5.5340712 5.534072,5.5340712 z"
+     id="rect4497-3-3"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 8.737288,10.753467 v 1.320493 h 14.525424 v -1.320493 z m 0,3.961479 v 1.320493 h 14.525424 v -1.320493 z m 0,3.961479 v 1.320493 h 14.525424 v -1.320493 z m 0,3.961479 v 1.320493 h 10.563945 v -1.320493 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;stroke-width:1.3204931" />
+     style="fill:#bdc9ff;stroke-width:1.3204931;fill-opacity:1" />
 </svg>

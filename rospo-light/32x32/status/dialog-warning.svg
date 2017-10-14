@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg12"
-   sodipodi:docname="messagebox_warning.svg"
+   sodipodi:docname="dialog-warning.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata18">
@@ -40,8 +40,8 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-5.7184632"
-     inkscape:cy="18.963093"
+     inkscape:cx="-10.416529"
+     inkscape:cy="16.182605"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,15 +54,14 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:26.1963253px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:1"
-     x="8.1149063"
-     y="23.871996"
-     id="text4486"><tspan
-       sodipodi:role="line"
-       id="tspan4484"
-       x="8.1149063"
-       y="23.871996"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';stroke-width:1">!</tspan></text>
+  <g
+     aria-label="!"
+     transform="scale(0.91603511,1.0916612)"
+     style="font-style:normal;font-weight:normal;font-size:23.99675369px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1"
+     id="text4486">
+    <path
+       d="m 15.282875,20.259804 c 0,1.055857 0.863883,1.871746 2.183705,1.871746 1.343818,0 2.183704,-0.791892 2.183704,-1.871746 0,-1.055858 -0.839886,-1.84775 -2.183704,-1.84775 -1.343818,0 -2.183705,0.791892 -2.183705,1.84775 z M 16.098765,8.7653586 16.50671,16.37233 c 0.024,0.503931 0.407945,0.887879 0.95987,0.887879 0.551925,0 0.935873,-0.383948 0.95987,-0.887879 l 0.407945,-7.6069714 c 0,-0.047994 0,-0.07199 0,-0.1199837 0,-0.9118767 -0.527929,-1.463802 -1.367815,-1.463802 -0.839887,0 -1.367815,0.5519253 -1.367815,1.463802 0,0.047994 0,0.07199 0,0.1199837 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#4d4d4d;stroke-width:1"
+       id="path4484" />
+  </g>
 </svg>

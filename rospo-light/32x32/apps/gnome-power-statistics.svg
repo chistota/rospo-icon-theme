@@ -40,7 +40,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -69,31 +69,4 @@
      id="path8"
      inkscape:connector-curvature="0"
      style="fill:#3f3f3f" />
-  <g
-     id="g4515"
-     transform="matrix(0.5,0,0,0.5,15.932203,16.067797)">
-    <circle
-       id="circle14"
-       r="8"
-       cy="16"
-       cx="16"
-       style="fill:#4daaf5;fill-rule:evenodd;enable-background:new" />
-    <g
-       style="fill:#ffffff"
-       id="g20"
-       transform="translate(-4.5,-5)">
-      <rect
-         id="rect16"
-         width="3"
-         height="6"
-         x="19"
-         y="20" />
-      <rect
-         id="rect18"
-         width="3"
-         height="3"
-         x="19"
-         y="16" />
-    </g>
-  </g>
 </svg>

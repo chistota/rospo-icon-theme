@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg26"
-   sodipodi:docname="touchpad.svg"
+   sodipodi:docname="touchpad-indicator.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata32">
@@ -40,7 +40,7 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="8.8125"
-     inkscape:cx="-5.6737589"
+     inkscape:cx="-27.234043"
      inkscape:cy="16"
      inkscape:current-layer="svg26" />
   <rect
@@ -52,7 +52,7 @@
      y="1.8983059"
      ry="5.575182" />
   <g
-     style="opacity:0.4;stroke-width:1.06933916"
+     style="opacity:1;stroke-width:1.06933916;fill:#4d4d4d"
      id="g22"
      transform="matrix(0.93515704,0,0,0.93515704,1.0374874,-0.3652482)">
     <rect
@@ -63,7 +63,7 @@
        rx="1.25"
        ry="1.25"
        id="rect6"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="11"
        height="6"
@@ -72,48 +72,48 @@
        rx="1.25"
        ry="1.25"
        id="rect8"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="4"
        height="1"
        x="24"
        y="7"
        id="rect10"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="4"
        height="1"
        x="24"
        y="9"
        id="rect12"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="4"
        height="1"
        x="24"
        y="11"
        id="rect14"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="4"
        height="1"
        x="24"
        y="13"
        id="rect16"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="4"
        height="1"
        x="24"
        y="15"
        id="rect18"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
     <rect
        width="4"
        height="1"
        x="24"
        y="17"
        id="rect20"
-       style="stroke-width:1.06933916" />
+       style="stroke-width:1.06933916;fill:#4d4d4d" />
   </g>
 </svg>

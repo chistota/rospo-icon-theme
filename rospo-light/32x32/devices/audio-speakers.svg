@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg20"
-   sodipodi:docname="blueman-loudspeaker.svg"
+   sodipodi:docname="audio-speakers.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata26">
@@ -39,9 +39,9 @@
      inkscape:window-height="965"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="9.3331523"
-     inkscape:cy="10.634916"
+     inkscape:zoom="7.375"
+     inkscape:cx="26.063154"
+     inkscape:cy="3.6788516"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,61 +54,49 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4518"
-     transform="matrix(0.96349413,0,0,0.96349413,0.58409395,0.58409395)"
-     style="stroke-width:0.7780785">
-    <rect
-       id="rect2"
-       transform="scale(-1,1)"
-       ry="1.3"
-       rx="1.25"
-       y="3"
-       x="-26"
-       height="26"
-       width="20"
-       style="fill:#5b5b5b;stroke-width:0.7780785" />
-    <circle
-       id="circle4"
-       transform="rotate(-90)"
-       r="9"
-       cy="16"
-       cx="-18"
-       style="opacity:0.4;stroke-width:0.7780785" />
-    <circle
-       id="circle6"
-       transform="matrix(0,-1,-1,0,0,0)"
-       r="7"
-       cy="-16"
-       cx="-19"
-       style="opacity:0.2;stroke-width:0.7780785" />
-    <circle
-       id="circle8"
-       transform="matrix(0,-1,-1,0,0,0)"
-       r="7"
-       cy="-16"
-       cx="-18"
-       style="fill:#fec006;stroke-width:0.7780785" />
-    <circle
-       id="circle10"
-       transform="matrix(0,-1,-1,0,0,0)"
-       r="3"
-       cy="-16"
-       cx="-18"
-       style="fill:#3f3f3f;stroke-width:0.7780785" />
-    <circle
-       id="circle12"
-       transform="rotate(90)"
-       r="1"
-       cy="-10"
-       cx="7"
-       style="opacity:0.4;stroke-width:0.7780785" />
-    <circle
-       id="circle14"
-       transform="rotate(90)"
-       r="1"
-       cy="-22"
-       cx="7"
-       style="opacity:0.4;stroke-width:0.7780785" />
-  </g>
+  <rect
+     style="fill:#5b5b5b;stroke-width:0.74967408"
+     width="19.269882"
+     height="25.050848"
+     x="-25.634941"
+     y="3.4745762"
+     rx="1.2043676"
+     ry="1.2525424"
+     transform="scale(-1,1)"
+     id="rect2" />
+  <circle
+     style="opacity:1;stroke-width:0.74967408;fill:#3e3e3e;fill-opacity:1"
+     cx="-17.926989"
+     cy="16"
+     r="8.6714468"
+     transform="rotate(-90)"
+     id="circle4" />
+  <circle
+     style="fill:#fec006;stroke-width:0.74967408"
+     cx="-17.926989"
+     cy="-16"
+     r="6.7444587"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="circle8" />
+  <circle
+     style="fill:#3f3f3f;stroke-width:0.74967408"
+     cx="-17.926989"
+     cy="-16"
+     r="2.8904824"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="circle10" />
+  <circle
+     style="opacity:1;stroke-width:0.74967408;fill:#3e3e3e;fill-opacity:1"
+     cx="7.3285527"
+     cy="-10.219035"
+     r="0.96349412"
+     transform="rotate(90)"
+     id="circle12" />
+  <circle
+     style="opacity:1;stroke-width:0.74967408;fill:#3e3e3e;fill-opacity:1"
+     cx="7.3285527"
+     cy="-21.780964"
+     r="0.96349412"
+     transform="rotate(90)"
+     id="circle14" />
 </svg>

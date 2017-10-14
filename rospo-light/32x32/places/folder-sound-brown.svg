@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg18"
-   sodipodi:docname="folder_color_brown_music.svg"
+   sodipodi:docname="folder-sound-brown.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata24">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-1.6271186"
+     inkscape:cx="-27.38983"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,13 +54,14 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <g
-     style="opacity:0.65;enable-background:new"
+     style="opacity:1;enable-background:new;fill:#000000;fill-opacity:0.65098041"
      transform="matrix(0.5,0,0,0.5,-230,-74.966057)"
      id="g16">
     <path
        transform="matrix(2,0,0,2,269,-837)"
        d="m 110,507 v 0.5 l -1e-5,4.7695 c -0.30389,-0.17609 -0.64878,-0.26905 -1,-0.26953 -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 l 1e-5,-5 h 4 l -1e-5,3.2695 c -0.30389,-0.17609 -0.64878,-0.26905 -1,-0.26953 -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 l 1e-5,-7 h -0.5 z"
        id="path14"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.65098041" />
   </g>
 </svg>

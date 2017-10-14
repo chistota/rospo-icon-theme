@@ -40,7 +40,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="28.693297"
+     inkscape:cx="10.476309"
      inkscape:cy="19.660833"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -65,31 +65,18 @@
      id="rect4497-3"
      style="font-style:normal;font-weight:normal;font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#44579d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <g
-     style="font-style:normal;font-weight:normal;font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.91378361"
-     transform="translate(0.45459224,-2.155613)"
-     id="g4587">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.73773766px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.69344342"
-       x="3.2363083"
-       y="26.04076"
-       id="text4521"><tspan
-         sodipodi:role="line"
-         id="tspan4519"
-         x="3.2363083"
-         y="26.04076"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Blue Highway';-inkscape-font-specification:'Blue Highway';fill:#ffffff;stroke-width:0.69344342">K</tspan></text>
+     aria-label="K"
+     style="font-style:normal;font-weight:normal;font-size:27.73773766px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.69344342"
+     id="text4521">
     <path
-       d="m 21.44838,25.907597 v -10.17839 h 3.655135 v 10.17839 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Blue Highway';-inkscape-font-specification:'Blue Highway';fill:#ffffff;fill-opacity:1;stroke-width:0.73966789"
-       id="path4563"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 23.394449,14.460828 c -0.560454,0 -1.047805,-0.19494 -1.462054,-0.584821 -0.389881,-0.389881 -0.584822,-0.865048 -0.584822,-1.425502 0,-0.584822 0.194941,-1.072173 0.584822,-1.462054 0.389881,-0.389881 0.877232,-0.584822 1.462054,-0.584822 0.584821,0 1.072172,0.194941 1.462053,0.584822 0.389881,0.389881 0.584822,0.877232 0.584822,1.462054 0,0.560454 -0.207124,1.035621 -0.621373,1.425502 -0.389881,0.389881 -0.865048,0.584821 -1.425502,0.584821 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.55134583px;line-height:1.25;font-family:'Blue Highway';-inkscape-font-specification:'Blue Highway';letter-spacing:0px;word-spacing:0px;fill:#ff8b00;fill-opacity:1;stroke:none;stroke-width:0.91378361"
-       id="path4563-0"
-       sodipodi:nodetypes="scssssscs" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Blue Highway';-inkscape-font-specification:'Blue Highway';fill:#ffffff;stroke-width:0.69344342"
+       d="M 6.1035156 8.3242188 L 6.1035156 23.691406 L 9.2382812 23.691406 L 9.2382812 20.279297 L 11.791016 17.255859 L 15.617188 23.691406 L 19.501953 23.691406 L 13.705078 14.871094 L 19.085938 8.3242188 L 15.5625 8.3242188 L 9.2382812 16.589844 L 9.2382812 8.3242188 L 6.1035156 8.3242188 z M 21.902344 13.574219 L 21.902344 23.751953 L 25.558594 23.751953 L 25.558594 13.574219 L 21.902344 13.574219 z "
+       id="path4493" />
   </g>
+  <path
+     sodipodi:nodetypes="scssssscs"
+     id="path4563-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.55134583px;line-height:1.25;font-family:'Blue Highway';-inkscape-font-specification:'Blue Highway';letter-spacing:0px;word-spacing:0px;fill:#ff8b00;fill-opacity:1;stroke:none;stroke-width:0.91378361"
+     d="m 23.849041,12.305215 c -0.560454,0 -1.047805,-0.19494 -1.462054,-0.584821 -0.389881,-0.389881 -0.584822,-0.865048 -0.584822,-1.425502 0,-0.584822 0.194941,-1.072173 0.584822,-1.462054 0.389881,-0.389881 0.877232,-0.584822 1.462054,-0.584822 0.584821,0 1.072172,0.194941 1.462053,0.584822 0.389881,0.389881 0.584822,0.877232 0.584822,1.462054 0,0.560454 -0.207124,1.035621 -0.621373,1.425502 -0.389881,0.389881 -0.865048,0.584821 -1.425502,0.584821 z"
+     inkscape:connector-curvature="0" />
 </svg>

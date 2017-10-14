@@ -40,7 +40,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="8.8125"
-     inkscape:cx="-9.3489509"
+     inkscape:cx="-30.909235"
      inkscape:cy="24.978514"
      inkscape:current-layer="svg22" />
   <rect
@@ -66,13 +66,13 @@
        inkscape:connector-curvature="0" />
   </g>
   <circle
-     style="opacity:0.4"
+     style="opacity:1;fill:#333333"
      cx="25.861702"
      cy="7.297873"
      r="1"
      id="circle8" />
   <circle
-     style="opacity:0.4"
+     style="opacity:1;fill:#333333"
      cx="16"
      cy="16"
      r="8"

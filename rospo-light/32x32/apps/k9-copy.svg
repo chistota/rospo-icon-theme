@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="k9-copy.svg"
+   sodipodi:docname="media-optical-copy.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="18.184288"
+     inkscape:cx="-0.0327003"
      inkscape:cy="12.862568"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -72,16 +72,17 @@
      sodipodi:nodetypes="sssss" />
   <g
      id="g4520"
-     transform="matrix(0.625,0,0,0.625,8.1530408,8.5693344)">
+     transform="matrix(0.75,0,0,0.75,4.6189786,5.1737288)"
+     style="stroke-width:0.83333331">
     <circle
        id="circle10"
        r="8"
        cy="23"
        cx="24"
-       style="fill:#ff4d4d;enable-background:new" />
+       style="fill:#ff4d4d;stroke-width:0.83333331;enable-background:new" />
     <path
        id="path14"
-       style="fill:#ffffff"
+       style="fill:#ffffff;stroke-width:0.83333331"
        d="m 24,18 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 0,3 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
        inkscape:connector-curvature="0" />
   </g>

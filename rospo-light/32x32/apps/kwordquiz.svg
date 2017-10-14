@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg10"
-   sodipodi:docname="gnome-activity-journal.svg"
+   sodipodi:docname="kwordquiz.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata16">
@@ -40,7 +40,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-9.7627119"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -58,5 +58,5 @@
      d="m 6.3050847,7.5677966 v 1 h 8.0000003 v -1 z m 0,2 V 10.567797 H 10.305085 V 9.5677966 Z m 0,2.0000004 v 1 h 5.0000003 v -1 z m 0,2 v 1 h 2 v -1 z m 0,2 v 1 h 5.0000003 v -1 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="opacity:0.5" />
+     style="opacity:1;fill:#666666" />
 </svg>

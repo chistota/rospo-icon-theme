@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="ksnapshot.svg"
+   sodipodi:docname="applets-screenshooter.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -40,8 +40,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="10.762668"
-     inkscape:cy="25.65793"
+     inkscape:cx="-6.7844131"
+     inkscape:cy="18.486051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,13 +65,13 @@
      d="m 7.26953,1.9394533 v 1.5214843 c 0,0.277 0.110266,0.5262813 0.291016,0.7070313 0.18075,0.18075 0.431984,0.2929687 0.708984,0.2929687 h 2 c 0.277,0 0.526281,-0.1122187 0.707031,-0.2929687 0.18075,-0.18075 0.292969,-0.4300313 0.292969,-0.7070313 v -1.5625 H 7.472655 c -0.07216,0 -0.131645,0.038325 -0.203125,0.041016 z"
      id="rect4497-3" />
   <circle
-     style="opacity:0.4"
+     style="opacity:1;fill:#373737;fill-opacity:1"
      cx="25.861704"
      cy="7.2978735"
      r="1"
      id="circle8-6" />
   <circle
-     style="opacity:0.4"
+     style="opacity:1;fill:#373737;fill-opacity:1"
      cx="16.000002"
      cy="16"
      r="8"

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.568627%,75.686275%,70.588235%);fill-opacity:1;" d="M 11.25 8.960938 L 11.25 7.835938 L 24.75 7.835938 L 24.75 8.960938 Z M 11.25 8.960938 "/>
+</g>
+<clipPath id="clip2">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.568627%,75.686275%,70.588235%);fill-opacity:1;" d="M 11.25 12.335938 L 11.25 11.210938 L 24.75 11.210938 L 24.75 12.335938 Z M 11.25 12.335938 "/>
+</g>
+<clipPath id="clip3">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface12" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.568627%,75.686275%,70.588235%);fill-opacity:1;" d="M 11.25 15.710938 L 11.25 14.585938 L 24.75 14.585938 L 24.75 15.710938 Z M 11.25 15.710938 "/>
+</g>
+<clipPath id="clip4">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface15" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.568627%,75.686275%,70.588235%);fill-opacity:1;" d="M 11.25 19.085938 L 11.25 17.960938 L 20.25 17.960938 L 20.25 19.085938 Z M 11.25 19.085938 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(34.117647%,69.019608%,45.490196%);fill-opacity:1;" d="M 2.136719 24.859375 L 2.136719 27.589844 C 2.136719 31.066406 4.933594 33.863281 8.410156 33.863281 L 27.59375 33.863281 C 31.066406 33.863281 33.863281 31.066406 33.863281 27.589844 L 33.863281 24.859375 L 28.285156 24.859375 L 23.554688 30.261719 L 18.828125 24.859375 Z M 2.136719 24.859375 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(22.745098%,50.980392%,40.784314%);fill-opacity:1;" d="M 2.136719 24.859375 L 18.828125 24.859375 L 23.554688 30.261719 L 28.285156 24.859375 L 33.863281 24.859375 L 33.863281 8.40625 C 33.863281 4.933594 31.066406 2.136719 27.59375 2.136719 L 8.410156 2.136719 C 4.933594 2.136719 2.136719 4.933594 2.136719 8.40625 Z M 2.136719 24.859375 "/>
+<use xlink:href="#surface6"/>
+<use xlink:href="#surface9"/>
+<use xlink:href="#surface12"/>
+<use xlink:href="#surface15"/>
+</g>
+</svg>

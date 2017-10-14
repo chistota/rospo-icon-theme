@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="folder_color_magenta_videos.svg"
+   sodipodi:docname="folder-video-magenta.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-1.6271186"
+     inkscape:cx="-27.38983"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,7 +54,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="color:#000000;opacity:0.65"
+     style="color:#000000;opacity:1;fill:#000000;fill-opacity:0.65098041"
      d="m 10.75,13.762712 c -0.7502,0 -0.75,0.801 -0.75,0.801 v 6.398 c 0,0.8 0.75,0.801 0.75,0.801 h 7.5 c 0,0 0.75,-0.001 0.75,-0.801 v -6.398 c 0,0 0,-0.801 -0.75,-0.801 z m 8.25,4 3,3 v -6 z"
      id="path14"
      inkscape:connector-curvature="0" />

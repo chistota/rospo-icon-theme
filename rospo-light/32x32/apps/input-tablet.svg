@@ -39,9 +39,9 @@
      inkscape:window-height="963"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="20.85965"
+     inkscape:cx="11.997236"
+     inkscape:cy="18.564013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,17 +66,18 @@
      inkscape:connector-curvature="0" />
   <g
      id="g4529"
-     transform="matrix(0.625,0,0,0.625,7.2203391,7.6927967)">
+     transform="matrix(0.75,0,0,0.75,4.3094897,5.2080405)"
+     style="stroke-width:0.83333331">
     <circle
        id="circle10"
        r="8"
        cy="23"
        cx="24"
-       style="fill:#1ea362;fill-rule:evenodd" />
+       style="fill:#1ea362;fill-rule:evenodd;stroke-width:0.83333331" />
     <path
        id="path12"
        d="m 20,25.218 v 1.7819 h 1.7819 l 4.5004,-4.5004 -1.7819,-1.7819 z m 7.8586,-4.2891 c 0.18848,-0.18847 0.18848,-0.48545 0,-0.67393 l -1.1137,-1.1137 c -0.18848,-0.18848 -0.48546,-0.18848 -0.67393,0 l -0.93093,0.93664 1.7819,1.7819 z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
+       style="fill:#ffffff;stroke-width:0.83333331" />
   </g>
 </svg>

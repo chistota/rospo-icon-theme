@@ -40,7 +40,7 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-9.7627119"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,7 +55,7 @@
      y="1.8983059"
      ry="5.575182" />
   <g
-     style="opacity:0.4"
+     style="opacity:1;fill:#666666"
      id="g22"
      transform="translate(0,-1.5)">
     <rect
@@ -65,7 +65,8 @@
        y="22"
        rx="1.25"
        ry="1.25"
-       id="rect6" />
+       id="rect6"
+       style="fill:#666666" />
     <rect
        width="11"
        height="6"
@@ -73,42 +74,49 @@
        y="22"
        rx="1.25"
        ry="1.25"
-       id="rect8" />
+       id="rect8"
+       style="fill:#666666" />
     <rect
        width="4"
        height="1"
        x="24"
        y="7"
-       id="rect10" />
+       id="rect10"
+       style="fill:#666666" />
     <rect
        width="4"
        height="1"
        x="24"
        y="9"
-       id="rect12" />
+       id="rect12"
+       style="fill:#666666" />
     <rect
        width="4"
        height="1"
        x="24"
        y="11"
-       id="rect14" />
+       id="rect14"
+       style="fill:#666666" />
     <rect
        width="4"
        height="1"
        x="24"
        y="13"
-       id="rect16" />
+       id="rect16"
+       style="fill:#666666" />
     <rect
        width="4"
        height="1"
        x="24"
        y="15"
-       id="rect18" />
+       id="rect18"
+       style="fill:#666666" />
     <rect
        width="4"
        height="1"
        x="24"
        y="17"
-       id="rect20" />
+       id="rect20"
+       style="fill:#666666" />
   </g>
 </svg>

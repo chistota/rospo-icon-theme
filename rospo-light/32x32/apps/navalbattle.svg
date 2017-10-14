@@ -38,9 +38,9 @@
      inkscape:window-height="480"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="8.9375"
-     inkscape:cx="2.1596101"
-     inkscape:cy="9.357616"
+     inkscape:zoom="25.279067"
+     inkscape:cx="4.7993098"
+     inkscape:cy="15.286316"
      inkscape:current-layer="svg27" />
   <defs
      id="defs9">
@@ -83,27 +83,24 @@
      inkscape:export-filename="/home/ramil/3.png"
      inkscape:export-xdpi="71"
      inkscape:export-ydpi="71" />
-  <g
-     id="g4518">
-    <path
-       id="path17"
-       d="m 16,12 5,5 -5.0364,0.95877 -4.964,-0.959 z"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
-    <path
-       id="path21"
-       d="m 16,12 5,5 -5.0364,0.95877 -4.964,-0.959 z"
-       style="opacity:0.15;fill:url(#linearGradient4387)"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path23"
-       d="m 6,12 10,5 10,-5 -3,8 H 9 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
-    <path
-       id="path25"
-       d="m 16,19 7,1 H 9 Z"
-       style="opacity:0.15;fill:url(#linearGradient4420)"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="m 16,12 5,5 -5.0364,0.95877 -4.964,-0.959 z"
+     id="path17" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#cccccc;fill-opacity:1"
+     d="m 16,12 5,5 -5.0364,0.95877 -4.964,-0.959 z"
+     id="path21" />
+  <path
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="m 6,12 10,5 10,-5 -3,8 H 9 Z"
+     id="path23" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#cccccc;fill-opacity:1"
+     d="m 16,19 7,1 H 9 Z"
+     id="path25" />
 </svg>

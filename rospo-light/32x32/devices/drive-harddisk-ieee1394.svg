@@ -40,7 +40,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,7 +55,7 @@
      y="1.8983059"
      ry="5.575182" />
   <g
-     style="opacity:0.5"
+     style="opacity:1;fill:#4d4d4d"
      id="g20"
      transform="translate(0.01938681,-0.03050869)">
     <rect
@@ -63,37 +63,43 @@
        height="1.5"
        x="14"
        y="20"
-       id="rect8" />
+       id="rect8"
+       style="fill:#4d4d4d" />
     <rect
        width="4"
        height="1.5"
        x="14"
        y="22.5"
-       id="rect10" />
+       id="rect10"
+       style="fill:#4d4d4d" />
     <path
        d="M 16,12 A 3.5,3.5 0 0 0 12.5,15.5 3.5,3.5 0 0 0 16,19 3.5,3.5 0 0 0 19.5,15.5 3.5,3.5 0 0 0 16,12 Z m 0,2 A 1.5,1.5 0 0 1 17.5,15.5 1.5,1.5 0 0 1 16,17 1.5,1.5 0 0 1 14.5,15.5 1.5,1.5 0 0 1 16,14 Z"
        id="path12"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#4d4d4d" />
     <rect
        width="4"
        height="4"
        x="-24.25"
        y="4.8499999"
        transform="rotate(-135)"
-       id="rect14" />
+       id="rect14"
+       style="fill:#4d4d4d" />
     <rect
        width="4"
        height="1.5"
        x="-2.3499999"
        y="-17.75"
        transform="rotate(135)"
-       id="rect16" />
+       id="rect16"
+       style="fill:#4d4d4d" />
     <rect
        width="4"
        height="1.5"
        x="-2.3499999"
        y="-15.25"
        transform="rotate(135)"
-       id="rect18" />
+       id="rect18"
+       style="fill:#4d4d4d" />
   </g>
 </svg>

@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="messagebox_critical.svg"
+   sodipodi:docname="dialog-error.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata22">
@@ -39,9 +39,9 @@
      inkscape:window-height="965"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-34.576271"
-     inkscape:cy="16"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.28206061"
+     inkscape:cy="21.674718"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,15 +54,14 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:26.1963253px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
-     x="8.1149063"
-     y="23.871996"
-     id="text4486"><tspan
-       sodipodi:role="line"
-       id="tspan4484"
-       x="8.1149063"
-       y="23.871996"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:1">!</tspan></text>
+  <g
+     aria-label="!"
+     transform="scale(1.0430409,0.95873517)"
+     style="font-style:normal;font-weight:normal;font-size:24.66540909px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     id="text4486">
+    <path
+       d="m 16.622365,11.360925 c 0.04933,-0.690631 0.074,-1.159274 0.074,-1.4305935 0,-1.1592742 -0.468643,-1.7759095 -1.356597,-1.7759095 -0.887955,0 -1.356598,0.5919699 -1.356598,1.7759095 0,0.4193115 0.02467,0.8879545 0.074,1.4305935 l 0.690632,9.422186 h 1.183939 z m -1.282601,11.050103 c -0.764628,0 -1.405929,0.616636 -1.405929,1.405929 0,0.789293 0.641301,1.405928 1.405929,1.405928 0.789293,0 1.405928,-0.641301 1.405928,-1.405928 0,-0.789293 -0.616635,-1.405929 -1.405928,-1.405929 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';fill:#ffffff;stroke-width:1.04304087"
+       id="path4488" />
+  </g>
 </svg>

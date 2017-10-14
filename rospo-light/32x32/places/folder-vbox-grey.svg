@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.440678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,8 +53,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round"
-     d="m 10,17.169518 h 2.5 l 1.5,5 1.5,-8 1.5,4 1.5,-3 1.5,4 h 2"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.65098039;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 15.511719,13.170782 a 1.0001,1.0001 0 0 0 -0.994141,0.816406 l -0.742187,3.957031 -0.31836,-1.060547 A 1.0001,1.0001 0 0 0 12.5,16.170782 H 10 v 2 h 1.755859 l 1.28711,4.287109 a 1.0001,1.0001 0 0 0 1.939453,-0.101563 l 0.839844,-4.480468 0.242187,0.646484 a 1.0001,1.0001 0 0 0 1.830078,0.0957 l 0.47461,-0.949219 0.695312,1.853516 A 1.0001,1.0001 0 0 0 20,20.170782 h 2 v -2 h -1.306641 l -1.257812,-3.351563 a 1.0001,1.0001 0 0 0 -1.830078,-0.0957 l -0.47461,0.949219 -0.695312,-1.853516 a 1.0001,1.0001 0 0 0 -0.923828,-0.648437 z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg29"
-   sodipodi:docname="basket.svg"
+   sodipodi:docname="accessories-notes.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata33">
@@ -38,7 +38,7 @@
      id="namedview31"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="0.23702375"
+     inkscape:cx="-12.644332"
      inkscape:cy="11.947149"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,32 +63,27 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <path
-     style="fill:#ffe69b;enable-background:new"
-     d="m 30.076521,20.092971 h -8.5 c -0.828,0 -1.5,0.672 -1.5,1.5 v 8.5 z"
-     id="path11"
-     inkscape:connector-curvature="0" />
   <g
      transform="matrix(1.2983051,0,0,1.2983051,-4.7728814,-3.4745763)"
      id="g27"
-     style="opacity:0.5">
+     style="opacity:1;fill:#000000;fill-opacity:0.52208835">
     <path
-       style="opacity:1;enable-background:new"
+       style="opacity:1;enable-background:new;fill:#000000;fill-opacity:0.52208835"
        d="m 10,11 v -1 h 12 v 1 z"
        id="path19"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;enable-background:new"
+       style="opacity:1;enable-background:new;fill:#000000;fill-opacity:0.52208835"
        d="m 10,14 v -1 h 12 v 1 z"
        id="path21"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;enable-background:new"
+       style="opacity:1;enable-background:new;fill:#000000;fill-opacity:0.52208835"
        d="m 10,17 v -1 h 12 v 1 z"
        id="path23"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;enable-background:new"
+       style="opacity:1;enable-background:new;fill:#000000;fill-opacity:0.52208835"
        d="m 10,20 v -1 h 8 v 1 z"
        id="path25"
        inkscape:connector-curvature="0" />
