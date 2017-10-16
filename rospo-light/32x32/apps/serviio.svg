@@ -40,7 +40,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="9.5"
-     inkscape:cx="-4.1052632"
+     inkscape:cx="-24.105263"
      inkscape:cy="16"
      inkscape:current-layer="svg10" />
   <rect
@@ -58,5 +58,5 @@
      d="M 16.0002,6.9999998 A 9,9 0 0 0 7.5373,13 H 5.0002 l 2,3 2,3 2,-3 2,-3 h -2.1836 a 6,6 0 0 1 5.184,-3.0000002 6,6 0 0 1 5.656,4.0180002 l 1.344,-2.018 1.922,2.883 a 9,9 0 0 0 -8.922,-7.8830002 z m 7,6.0000002 -2,3 -2,3 h 2.1836 a 6,6 0 0 1 -5.184,3 6,6 0 0 1 -5.656,-4.018 L 8.9998,20 7.0779,17.117 a 9,9 0 0 0 8.9219,7.883 9,9 0 0 0 8.463,-6 h 2.537 l -2,-3 -2,-3 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:#3f3f3f" />
+     style="fill:#ffffff" />
 </svg>

@@ -1,1 +1,15 @@
-folder-home-yellow.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect width="36" height="36"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.65098;" d="M 12.375 20.242188 L 13.5 20.242188 L 13.5 24.742188 L 16.875 24.742188 L 16.875 21.367188 L 19.125 21.367188 L 19.125 24.742188 L 22.5 24.742188 L 22.5 20.242188 L 23.625 20.242188 L 18 14.617188 Z M 12.375 20.242188 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(96.078431%,80.784314%,27.45098%);fill-opacity:1;" d="M 31.390625 7.566406 C 32.707031 7.566406 33.765625 8.625 33.765625 9.941406 L 33.765625 29.753906 C 33.765625 31.066406 32.707031 32.125 31.390625 32.125 L 4.609375 32.125 C 3.292969 32.125 2.234375 31.066406 2.234375 29.753906 L 2.234375 11.476562 L 2.238281 5.777344 C 2.238281 4.722656 3.085938 3.875 4.140625 3.875 L 14.367188 3.875 C 15.421875 3.875 16.285156 4.292969 16.957031 5.105469 L 18.984375 7.574219 Z M 31.390625 7.566406 "/>
+<use xlink:href="#surface6"/>
+</g>
+</svg>

@@ -40,7 +40,7 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="9.5"
-     inkscape:cx="-4.1052632"
+     inkscape:cx="-24.105263"
      inkscape:cy="16"
      inkscape:current-layer="svg12" />
   <rect
@@ -58,5 +58,5 @@
      d="M 11.00015,7.9999999 V 24 h 9.9997 v -4 h -6 V 7.9999999 Z"
      id="path10"
      inkscape:connector-curvature="0"
-     style="fill:#ffa6a6" />
+     style="fill:#ffdaa6;fill-opacity:1" />
 </svg>

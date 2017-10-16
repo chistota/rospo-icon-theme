@@ -40,15 +40,15 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-10.416529"
-     inkscape:cy="16.182605"
+     inkscape:cx="-5.6225848"
+     inkscape:cy="7.841142"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
   <rect
      style="opacity:1;fill:#ffd453;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-3"
+     id="rect4497-3-3"
      width="28.203388"
      height="28.203388"
      x="1.8983059"
@@ -56,12 +56,14 @@
      ry="5.575182" />
   <g
      aria-label="!"
-     transform="scale(0.91603511,1.0916612)"
-     style="font-style:normal;font-weight:normal;font-size:23.99675369px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1"
-     id="text4486">
+     style="font-style:normal;font-weight:normal;font-size:23.95451164px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.62651193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="text4486-3"
+     transform="matrix(0.86073761,0,0,0.86073761,2.5669454,1.8415388)">
     <path
-       d="m 15.282875,20.259804 c 0,1.055857 0.863883,1.871746 2.183705,1.871746 1.343818,0 2.183704,-0.791892 2.183704,-1.871746 0,-1.055858 -0.839886,-1.84775 -2.183704,-1.84775 -1.343818,0 -2.183705,0.791892 -2.183705,1.84775 z M 16.098765,8.7653586 16.50671,16.37233 c 0.024,0.503931 0.407945,0.887879 0.95987,0.887879 0.551925,0 0.935873,-0.383948 0.95987,-0.887879 l 0.407945,-7.6069714 c 0,-0.047994 0,-0.07199 0,-0.1199837 0,-0.9118767 -0.527929,-1.463802 -1.367815,-1.463802 -0.839887,0 -1.367815,0.5519253 -1.367815,1.463802 0,0.047994 0,0.07199 0,0.1199837 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#4d4d4d;stroke-width:1"
-       id="path4484" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.62651193;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 15.605469,7.4609375 c -0.586737,0 -1.17768,0.2393716 -1.535157,0.703125 -0.357476,0.4637534 -0.482421,1.0534337 -0.482421,1.7207031 0,0.4346724 0.02688,0.9108834 0.07617,1.4531254 l -0.002,-0.01172 0.71875,8.917472 h 2.451172 L 17.54878,11.324218 C 17.59711,10.647581 17.623,10.19068 17.623,9.8847646 17.623,9.2275073 17.498604,8.6399639 17.144484,8.1757802 16.790412,7.7115976 16.198687,7.4609375 15.605469,7.4609375 Z m 0,13.8457035 c -1.118934,0 -2.064453,0.918742 -2.064453,2.064453 0,1.14571 0.945519,2.066406 2.064453,2.066406 1.14571,0 2.066406,-0.947472 2.066406,-2.066406 0,-1.131128 -0.935279,-2.064453 -2.066406,-2.064453 z"
+       id="path4488-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scscccccscssssss" />
   </g>
 </svg>
