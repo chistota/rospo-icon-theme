@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg12"
-   sodipodi:docname="steam_icon_130.svg"
+   sodipodi:docname="half-life.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata18">
@@ -39,21 +39,33 @@
      inkscape:window-height="480"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.5"
-     inkscape:cx="-4.1052632"
-     inkscape:cy="16"
+     inkscape:zoom="6.7175144"
+     inkscape:cx="35.800967"
+     inkscape:cy="20.826113"
      inkscape:current-layer="svg12" />
   <rect
-     style="opacity:1;fill:#f37b21;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-6"
+     style="opacity:1;fill:#ffbd00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-6-2"
      width="28.203388"
      height="28.203388"
-     x="1.8983059"
+     x="1.8983057"
      y="1.8983059"
      ry="5.575182" />
+  <circle
+     style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4546-0"
+     cx="16.000002"
+     cy="15.999999"
+     r="10.091946" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4557-9"
+     cx="16.000002"
+     cy="15.999999"
+     r="9.0858955" />
   <path
-     d="M 16,6.0000002 A 10,10 0 0 0 6,16 10,10 0 0 0 16,26 10,10 0 0 0 26,16 10,10 0 0 0 16,6.0000002 Z m -4.0112,2.9443001 h 3.8318 L 20.22,20.1333 l 1.9348,-0.62988 0.64453,2.1667 -4.1724,1.2048 -2.8064,-7.1143 -4.115,6.4844 h -2.5806 l 5.7471,-9.281 -0.64453,-1.8335 H 11.9887 V 8.9442203 Z"
-     id="path6-3"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
+     style="fill:#ff6d00;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 12.064799,9.2451572 0.463719,1.9476208 1.638475,-0.03092 0.865609,1.2675 -3.740668,10.325479 3.307863,-1.020182 2.133109,-6.584812 3.431521,5.348228 2.627742,-2.194937 -1.143841,-1.66939 -0.927438,0.741951 -5.317313,-8.0996278 z"
+     id="path4494-6"
+     inkscape:connector-curvature="0" />
 </svg>
