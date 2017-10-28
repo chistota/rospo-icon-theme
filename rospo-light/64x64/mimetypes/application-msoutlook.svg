@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image9" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAiUlEQVRoge3WsQmAMBCF4TtR3MIh3MbGVrBwHMFOHMjCEVxACxGCRZxAxBA4hP/r3+W9LiIAAAAA8FMaEmrLMhvWNY9ZpCkK18/z9TWXhjx2LkuVeV+HZB9v7vskItPXXBKzhAUGWGOANQZYY4A1BlhjgLWg32in6jbvj5hFOlU3xjwIAAAA4M0NLM0Y5SihXYEAAAAASUVORK5CYII="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image9"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="48" height="48"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 15 17.933594 C 14.167969 17.933594 13.5 18.605469 13.5 19.433594 L 13.5 31.433594 C 13.5 32.265625 14.167969 32.933594 15 32.933594 L 33 32.933594 C 33.832031 32.933594 34.5 32.265625 34.5 31.433594 L 34.5 19.433594 C 34.5 18.605469 33.832031 17.933594 33 17.933594 Z M 15 19.433594 L 15.4375 19.433594 L 20.902344 24.894531 L 15.296875 31.433594 L 15 31.433594 Z M 17.5625 19.433594 L 30.4375 19.433594 L 24 25.871094 Z M 32.5625 19.433594 L 33 19.433594 L 33 31.433594 L 32.703125 31.433594 L 27.097656 24.894531 Z M 21.96875 25.957031 L 24.003906 27.996094 L 26.042969 25.957031 L 30.734375 31.433594 L 17.277344 31.433594 Z M 21.96875 25.957031 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(23.137255%,32.941176%,61.960784%);fill-opacity:1;" d="M 31.78125 3 L 11.300781 3 C 6.703125 3 3 6.703125 3 11.300781 L 3 36.699219 C 3 41.296875 6.703125 45 11.300781 45 L 36.699219 45 C 41.296875 45 45 41.296875 45 36.699219 L 45 16.21875 Z M 31.78125 3 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(72.54902%,76.862745%,89.411765%);fill-opacity:1;" d="M 45 16.21875 L 31.78125 3 L 31.78125 7.917969 C 31.78125 12.515625 35.484375 16.21875 40.082031 16.21875 Z M 45 16.21875 "/>
+<use xlink:href="#surface11" mask="url(#mask0)"/>
+</g>
+</svg>

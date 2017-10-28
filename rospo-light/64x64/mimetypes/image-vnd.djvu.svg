@@ -1,1 +1,16 @@
-application-x-fictionbook.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(97.254902%,62.745098%,11.764706%);fill-opacity:1;" d="M 31.78125 3 L 11.300781 3 C 6.703125 3 3 6.703125 3 11.300781 L 3 36.699219 C 3 41.296875 6.703125 45 11.300781 45 L 36.699219 45 C 41.296875 45 45 41.296875 45 36.699219 L 45 16.21875 Z M 31.78125 3 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 45 16.21875 L 31.78125 3 L 31.78125 7.917969 C 31.78125 12.515625 35.484375 16.21875 40.082031 16.21875 Z M 45 16.21875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 15 18.292969 L 15 34.792969 L 33 34.792969 L 33 18.292969 Z M 16.5 19.792969 L 31.5 19.792969 L 31.5 33.292969 L 16.5 33.292969 Z M 16.5 19.792969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 30 16.792969 L 31.5 16.792969 L 31.5 18.292969 L 30 18.292969 Z M 30 16.792969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 16.5 16.792969 L 18 16.792969 L 18 18.292969 L 16.5 18.292969 Z M 16.5 16.792969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 19.5 16.792969 L 21 16.792969 L 21 18.292969 L 19.5 18.292969 Z M 19.5 16.792969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 27 16.792969 L 28.5 16.792969 L 28.5 18.292969 L 27 18.292969 Z M 27 16.792969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 18 21.292969 L 30 21.292969 L 30 22.792969 L 18 22.792969 Z M 18 21.292969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 18 24.292969 L 24 24.292969 L 24 25.792969 L 18 25.792969 Z M 18 24.292969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 27 30.292969 L 30 30.292969 L 30 31.792969 L 27 31.792969 Z M 27 30.292969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,86.666667%,63.921569%);fill-opacity:1;" d="M 18 27.292969 L 27 27.292969 L 27 28.792969 L 18 28.792969 Z M 18 27.292969 "/>
+</g>
+</svg>

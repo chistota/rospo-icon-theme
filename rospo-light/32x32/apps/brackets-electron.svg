@@ -40,7 +40,7 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-10.711864"
+     inkscape:cx="-36.474576"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,21 +54,18 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4505">
-    <rect
-       id="rect8"
-       ry="1.5"
-       rx="1.5"
-       y="5"
-       x="5"
-       height="22"
-       width="22"
-       style="fill:#ffffff" />
-    <path
-       id="path10"
-       d="m 7,7 v 18 h 8 V 21 H 11 V 11 h 4 V 7 Z m 10,0 v 4 h 4 v 10 h -4 v 4 h 8 V 7 Z"
-       style="fill:#424242"
-       inkscape:connector-curvature="0" />
-  </g>
+  <rect
+     style="fill:#ffffff"
+     width="22"
+     height="22"
+     x="5"
+     y="5"
+     rx="1.5"
+     ry="1.5"
+     id="rect8" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#424242;stroke-width:1"
+     d="M 8.4915249,8.4915251 V 23.508475 h 6.6742001 v -3.3371 h -3.3371 v -8.34275 h 3.3371 V 8.4915251 Z m 8.3427501,0 v 3.3370999 h 3.3371 v 8.34275 h -3.3371 v 3.3371 h 6.6742 V 8.4915251 Z"
+     id="path10-3" />
 </svg>

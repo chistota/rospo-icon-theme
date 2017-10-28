@@ -1,1 +1,8 @@
-x-office-spreadsheet.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(12.54902%,66.666667%,95.294118%);fill-opacity:1;" d="M 31.78125 3 L 11.300781 3 C 6.703125 3 3 6.703125 3 11.300781 L 3 36.699219 C 3 41.296875 6.703125 45 11.300781 45 L 36.699219 45 C 41.296875 45 45 41.296875 45 36.699219 L 45 16.21875 Z M 31.78125 3 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.901961%,97.254902%,100%);fill-opacity:1;" d="M 45 16.21875 L 31.78125 3 L 31.78125 7.917969 C 31.78125 12.515625 35.484375 16.21875 40.082031 16.21875 Z M 45 16.21875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.901961%,97.254902%,100%);fill-opacity:1;" d="M 30 16.074219 L 30 31.074219 L 31.5 31.074219 L 31.5 16.074219 Z M 21 20.574219 L 21 31.074219 L 22.5 31.074219 L 22.5 20.574219 Z M 25.5 25.074219 L 25.5 31.074219 L 27 31.074219 L 27 25.074219 Z M 16.5 28.074219 L 16.5 31.074219 L 18 31.074219 L 18 28.074219 Z M 15 32.574219 L 15 34.074219 L 33 34.074219 L 33 32.574219 Z M 15 32.574219 "/>
+</g>
+</svg>
