@@ -1,7 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(65.490196%,82.352941%,52.156863%);fill-opacity:1;" d="M 11.207031 2.847656 L 36.792969 2.847656 C 41.40625 2.847656 45.152344 6.59375 45.152344 11.207031 L 45.152344 36.792969 C 45.152344 41.40625 41.40625 45.152344 36.792969 45.152344 L 11.207031 45.152344 C 6.59375 45.152344 2.847656 41.40625 2.847656 36.792969 L 2.847656 11.207031 C 2.847656 6.59375 6.59375 2.847656 11.207031 2.847656 Z M 11.207031 2.847656 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 13.753906 16.949219 C 13.753906 17.984375 13.78125 19.160156 13.832031 20.082031 L 11.558594 20.082031 C 10.34375 20.082031 9.363281 21.058594 9.363281 22.277344 L 9.363281 31.527344 C 9.363281 32.746094 10.34375 33.671875 11.558594 33.671875 L 16.160156 33.671875 C 17.1875 33.671875 17.730469 32.625 17.730469 32.625 C 20.222656 34.714844 23.859375 34.714844 26.5625 34.714844 C 32.046875 34.714844 38.636719 34.503906 38.636719 16.941406 Z M 12.808594 22.171875 L 13.902344 22.171875 C 14.332031 26.503906 15.296875 29.4375 16.566406 31.410156 C 16.386719 31.515625 16.175781 31.578125 15.957031 31.578125 L 12.808594 31.578125 C 12.058594 31.578125 11.453125 30.878906 11.453125 30.011719 L 11.453125 23.738281 C 11.453125 22.871094 12.058594 22.171875 12.808594 22.171875 Z M 12.808594 22.171875 "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1"
+   id="svg8"
+   sodipodi:docname="caffeine.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="965"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-37.423728"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <rect
+     style="opacity:1;fill:#a7d285;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <path
+     d="m 9.169653,11.296889 c 0,0.691564 0.01893,1.478424 0.05172,2.090728 H 7.706431 c -0.810784,0 -1.46323,0.652307 -1.46323,1.463509 v 6.167369 c 0,0.810505 0.652446,1.428664 1.46323,1.428664 h 3.06668 c 0.686414,0 1.045364,-0.69691 1.045364,-0.69691 1.664149,1.39347 4.088627,1.393819 5.888325,1.393819 3.658774,0 8.049999,-0.139382 8.049999,-11.847458 z m -0.631574,3.484546 h 0.730918 c 0.287127,2.889595 0.927447,4.843241 1.774959,6.157821 -0.12175,0.07109 -0.258136,0.114293 -0.404277,0.114293 h -2.1016 c -0.498987,0 -0.901104,-0.466232 -0.901104,-1.045364 V 15.82673 c 0,-0.579132 0.402117,-1.045364 0.901104,-1.045364 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:0.69690925" />
 </svg>

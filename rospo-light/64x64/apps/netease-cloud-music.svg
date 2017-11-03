@@ -1,7 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(89.019608%,18.039216%,18.039216%);fill-opacity:1;" d="M 11.207031 2.847656 L 36.792969 2.847656 C 41.40625 2.847656 45.152344 6.59375 45.152344 11.207031 L 45.152344 36.792969 C 45.152344 41.40625 41.40625 45.152344 36.792969 45.152344 L 11.207031 45.152344 C 6.59375 45.152344 2.847656 41.40625 2.847656 36.792969 L 2.847656 11.207031 C 2.847656 6.59375 6.59375 2.847656 11.207031 2.847656 Z M 11.207031 2.847656 "/>
-<path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 13.169271 8.458333 C 8.229167 10.747396 6.908854 14.486979 7.783854 18.322917 C 9.773438 27.0625 16.541667 25.40625 17.71875 25.208333 C 19.666667 24.882812 23.5625 23.950521 24.346354 19.091146 C 25.148438 14.122396 21.90625 12.15625 19.955729 11.721354 C 17.497396 11.179688 15.486979 11.523438 14.372396 13.257812 C 13.333333 14.861979 13.25 16.846354 13.903646 18.177083 C 14.5 19.393229 15.052083 19.4375 15.976562 19.458333 C 19.158854 19.53125 19.591146 18.072917 19.242188 16.208333 C 18.4375 12.242188 16.583333 11.122396 17.221354 8.059896 C 17.875 5.992188 20.020833 6.28125 21.46875 7.458333 " transform="matrix(1.5,0,0,1.5,0,0)"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="netease-cloud-music.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="-5.3706294"
+     inkscape:cy="16"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="opacity:1;fill:#e32e2e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182"
+     inkscape:export-filename="/home/ramil/3.png"
+     inkscape:export-xdpi="71"
+     inkscape:export-ydpi="71" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 13.16896,8.4595683 C 8.2287478,10.746104 6.9086968,14.486375 7.7833868,18.323702 c 1.992172,8.739831 8.7582722,7.083109 9.9344842,6.885866 1.948524,-0.32676 5.843426,-1.258336 6.628089,-6.120145 0.801844,-4.968268 -2.438603,-6.934278 -4.39283,-7.365494 -2.454915,-0.541697 -4.467518,-0.199375 -5.58317,1.531442 -1.035117,1.605875 -1.121361,3.590198 -0.468,4.922479 0.596436,1.216211 1.151194,1.261003 2.074519,1.281718 3.183455,0.07142 3.61465,-1.387968 3.267045,-3.25071 C 18.439191,12.244632 16.582161,11.120928 17.221147,8.0576734 17.874599,5.9943101 20.0205,6.2815957 21.46896,7.4594632"
+     id="path8"
+     inkscape:connector-curvature="0" />
 </svg>

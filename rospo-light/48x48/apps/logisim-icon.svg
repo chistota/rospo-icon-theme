@@ -1,11 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(24.705882%,24.705882%,24.705882%);fill-opacity:1;" d="M 8.40625 2.136719 L 27.59375 2.136719 C 31.054688 2.136719 33.863281 4.945312 33.863281 8.40625 L 33.863281 27.59375 C 33.863281 31.054688 31.054688 33.863281 27.59375 33.863281 L 8.40625 33.863281 C 4.945312 33.863281 2.136719 31.054688 2.136719 27.59375 L 2.136719 8.40625 C 2.136719 4.945312 4.945312 2.136719 8.40625 2.136719 Z M 8.40625 2.136719 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,80%,80%);fill-opacity:1;" d="M 28.914062 18 C 28.914062 24.261719 23.839844 29.335938 17.582031 29.335938 C 11.320312 29.335938 6.246094 24.261719 6.246094 18 C 6.246094 11.738281 11.320312 6.664062 17.582031 6.664062 C 23.839844 6.664062 28.914062 11.738281 28.914062 18 Z M 28.914062 18 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(27.45098%,60%,38.039216%);fill-opacity:1;" d="M 20.097656 16.742188 L 29.335938 16.742188 C 30.03125 16.742188 30.59375 17.304688 30.59375 18 C 30.59375 18.695312 30.03125 19.257812 29.335938 19.257812 L 20.097656 19.257812 C 19.402344 19.257812 18.839844 18.695312 18.839844 18 C 18.839844 17.304688 19.402344 16.742188 20.097656 16.742188 Z M 20.097656 16.742188 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.27451%,56.078431%,58.823529%);fill-opacity:1;" d="M 6.664062 12.542969 L 15.902344 12.542969 C 16.597656 12.542969 17.160156 13.105469 17.160156 13.800781 C 17.160156 14.496094 16.597656 15.0625 15.902344 15.0625 L 6.664062 15.0625 C 5.96875 15.0625 5.40625 14.496094 5.40625 13.800781 C 5.40625 13.105469 5.96875 12.542969 6.664062 12.542969 Z M 6.664062 12.542969 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(27.45098%,60%,38.039216%);fill-opacity:1;" d="M 6.664062 20.9375 L 15.902344 20.9375 C 16.597656 20.9375 17.160156 21.503906 17.160156 22.199219 C 17.160156 22.894531 16.597656 23.457031 15.902344 23.457031 L 6.664062 23.457031 C 5.96875 23.457031 5.40625 22.894531 5.40625 22.199219 C 5.40625 21.503906 5.96875 20.9375 6.664062 20.9375 Z M 6.664062 20.9375 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(24.705882%,24.705882%,24.705882%);fill-opacity:1;" d="M 12.121094 24.296875 C 12.980469 21.820312 13.800781 20.9375 13.800781 18 C 13.800781 15.0625 13.007812 14.261719 12.121094 11.703125 C 20.261719 11.703125 23.878906 18 23.878906 18 C 23.878906 18 20.261719 24.296875 12.121094 24.296875 Z M 12.121094 24.296875 "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1.1"
+   viewBox="0 0 32 32.000001"
+   id="svg18"
+   sodipodi:docname="logisim-icon-128.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="-5.3706294"
+     inkscape:cy="16"
+     inkscape:current-layer="svg18" />
+  <rect
+     style="opacity:1;fill:#3f3f3f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182"
+     inkscape:export-filename="/home/ramil/3.png"
+     inkscape:export-xdpi="71"
+     inkscape:export-ydpi="71" />
+  <g
+     id="g4519"
+     transform="translate(46.209789,2.9615545)">
+    <circle
+       r="10.076223"
+       style="fill:#cccccc;stroke-width:1"
+       cx="-30.582983"
+       cy="13.038445"
+       id="circle4" />
+    <rect
+       style="fill:#469961;stroke-width:1"
+       ry="1.1195804"
+       height="2.2391608"
+       width="10.449417"
+       y="11.918865"
+       x="-29.463402"
+       id="rect8" />
+    <rect
+       style="fill:#438f96;stroke-width:1"
+       ry="1.1195804"
+       height="2.2391608"
+       width="10.449417"
+       y="8.1869297"
+       x="-41.405594"
+       id="rect10" />
+    <rect
+       style="fill:#469961;stroke-width:1"
+       ry="1.1195804"
+       height="2.2391608"
+       width="10.449417"
+       y="15.650799"
+       x="-41.405594"
+       id="rect12" />
+    <path
+       d="m -35.434499,18.63636 c 0.763419,-2.202439 1.492774,-2.985548 1.492774,-5.597902 0,-2.612355 -0.703873,-3.3220195 -1.492774,-5.5979026 7.234323,0 10.449418,5.5979026 10.449418,5.5979026 0,0 -3.215094,5.597902 -10.449418,5.597902 z"
+       style="fill:#3f3f3f;stroke-width:1"
+       id="path14"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

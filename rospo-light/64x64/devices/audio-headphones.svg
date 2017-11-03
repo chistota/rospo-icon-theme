@@ -1,8 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(55.686275%,55.686275%,55.686275%);fill-opacity:1;" d="M 11.214844 2.847656 L 36.785156 2.847656 C 41.417969 2.847656 45.152344 6.582031 45.152344 11.214844 L 45.152344 36.785156 C 45.152344 41.417969 41.417969 45.152344 36.785156 45.152344 L 11.214844 45.152344 C 6.582031 45.152344 2.847656 41.417969 2.847656 36.785156 L 2.847656 11.214844 C 2.847656 6.582031 6.582031 2.847656 11.214844 2.847656 Z M 11.214844 2.847656 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196078%,90.196078%,90.196078%);fill-opacity:1;" d="M 24 11.082031 C 17.34375 11.082031 11.953125 16.488281 11.953125 23.144531 L 11.953125 30.890625 C 11.953125 33.957031 14.136719 34.792969 15.386719 35.027344 L 15.386719 23.144531 C 15.386719 18.375 19.230469 14.53125 24 14.53125 C 28.769531 14.53125 32.613281 18.375 32.613281 23.144531 L 32.613281 35.027344 C 33.863281 34.792969 36.046875 33.957031 36.046875 30.890625 L 36.046875 23.144531 C 36.046875 16.488281 30.65625 11.082031 24 11.082031 Z M 24 11.082031 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 15.386719 24.855469 L 15.386719 36.917969 L 19.699219 36.917969 L 19.699219 24.855469 Z M 28.300781 24.855469 L 28.300781 36.917969 L 32.613281 36.917969 L 32.613281 24.855469 Z M 28.300781 24.855469 "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="blueman-headset.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="965"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <g
+     id="g4505"
+     transform="translate(48.813559,0.94925255)">
+    <path
+       style="fill:#e6e6e6;stroke-width:0.57384986"
+       inkscape:connector-curvature="0"
+       id="path2"
+       d="m -32.813559,6.4431715 c -4.437007,0 -8.033899,3.5968905 -8.033899,8.0338975 v 5.164649 c 0,2.048415 1.458669,2.605852 2.2954,2.758267 V 14.47684 c 0,-3.179129 2.559371,-5.7384986 5.738499,-5.7384986 3.179128,0 5.738499,2.5593696 5.738499,5.7384986 v 7.926014 c 0.836673,-0.153792 2.295399,-0.712721 2.295399,-2.761365 V 14.47684 c 0,-4.437008 -3.596891,-8.0338981 -8.033898,-8.0338981 z" />
+    <path
+       style="fill:#4d4d4d;stroke-width:0.57384986"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m -38.552058,15.624654 v 8.033899 h 2.86925 v -8.033899 z m 8.607748,0 v 8.033899 h 2.86925 v -8.033899 z" />
+  </g>
 </svg>

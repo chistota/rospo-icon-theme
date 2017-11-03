@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="8.9375"
-     inkscape:cx="-5.3706294"
+     inkscape:cx="-26.629371"
      inkscape:cy="16"
      inkscape:current-layer="svg16" />
   <rect
@@ -55,23 +55,23 @@
      inkscape:export-xdpi="71"
      inkscape:export-ydpi="71" />
   <g
-     style="fill-rule:evenodd;enable-background:new"
-     transform="matrix(0.09,0,0,0.09,3.0402475,1.869928)"
+     style="fill-rule:evenodd;stroke-width:0.74178147;enable-background:new"
+     transform="matrix(0.12132953,0,0,0.12132953,-0.91167854,-3.0488337)"
      id="g10">
     <path
        d="M 75.583,196.69 44,123.548 l 26.202,-12.113 20.352,49.095 24.61,-12.533 11.074,23.627 z"
        id="path4"
        inkscape:connector-curvature="0"
-       style="fill:#4587cf" />
+       style="fill:#4587cf;stroke-width:0.74178147" />
     <path
        d="m 167.62,98 27.782,5.3313 5.9685,18.009 12.199,-13.914 30.425,6.4163 -27.327,30.436 15.427,45.341 -32.752,-3.1789 -5.8259,-24.582 -14.798,20.228 -25.469,-7.9524 25.607,-36.228 z"
        id="path6"
        inkscape:connector-curvature="0"
-       style="fill:#de5328" />
+       style="fill:#de5328;stroke-width:0.74178147" />
     <path
        d="m 97.527,122.93 31.788,4.3145 9.4338,19.724 11.895,-17.053 31.993,4.1091 -29.327,41.913 -7.1779,40.064 -29.737,-4.7254 5.1271,-35.955 z"
        id="path8"
        inkscape:connector-curvature="0"
-       style="fill:#dfa722" />
+       style="fill:#dfa722;stroke-width:0.74178147" />
   </g>
 </svg>

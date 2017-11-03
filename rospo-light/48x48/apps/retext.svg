@@ -1,73 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="36" height="36" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1"
+   id="svg22"
+   sodipodi:docname="retext.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="9.5"
+     inkscape:cx="-5.0526316"
+     inkscape:cy="16.947368"
+     inkscape:current-layer="svg22">
+    <sodipodi:guide
+       position="-26.315789,25.368421"
+       orientation="1,0"
+       id="guide4511"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g4536"
+     transform="translate(42.316406,1.8945314)">
+    <path
+       id="path4516"
+       d="m -26.316406,28.207031 h 8.527344 c 3.08865,0 5.574218,-2.487521 5.574218,-5.576172 V 5.578125 c 0,-3.0886508 -2.485568,-5.57421875 -5.574218,-5.57421875 h -8.527344 z"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4497-3"
+       d="M -26.316406,28.207031 V 0.00390625 h -8.525391 c -3.088651,0 -5.576172,2.48556795 -5.576172,5.57421875 v 17.052734 c 0,3.088651 2.487521,5.576172 5.576172,5.576172 z"
+       style="opacity:1;fill:#aeaeae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
-</mask>
-<clipPath id="clip1">
-  <rect width="36" height="36"/>
-</clipPath>
-<g id="surface6" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 4.855469 7.933594 L 11.605469 7.933594 L 11.605469 9.058594 L 4.855469 9.058594 Z M 4.855469 7.933594 "/>
-</g>
-<mask id="mask1">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="36" height="36" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
+  <g
+     id="g4532"
+     transform="translate(42.421303,1.8947369)">
+    <g
+       transform="translate(-42.105264,-0.84210524)"
+       id="g4523">
+      <rect
+         style="opacity:0.6"
+         height="1"
+         width="6"
+         y="6"
+         x="4"
+         id="rect6" />
+      <rect
+         style="opacity:0.6"
+         height="1"
+         width="9"
+         y="9"
+         x="4"
+         id="rect8" />
+      <rect
+         style="opacity:0.6"
+         height="1"
+         width="10"
+         y="12"
+         x="4"
+         id="rect10" />
+      <rect
+         style="opacity:0.6"
+         height="1"
+         width="7"
+         y="15"
+         x="4"
+         id="rect12" />
+      <rect
+         style="opacity:0.6"
+         height="1"
+         width="9"
+         y="18"
+         x="4"
+         id="rect14" />
+    </g>
+    <path
+       style="fill:#c2352a"
+       inkscape:connector-curvature="0"
+       id="path16"
+       d="M -24.736842,5.1052632 V 23.105263 h 3 v -8 l 3,8 h 3.9995 v -3 h -2 l -2,-5 h 4 V 5.1052632 Z m 3,3 h 4 v 3.9999998 h -4 z" />
   </g>
-</mask>
-<clipPath id="clip2">
-  <rect width="36" height="36"/>
-</clipPath>
-<g id="surface9" clip-path="url(#clip2)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 4.855469 11.308594 L 14.980469 11.308594 L 14.980469 12.433594 L 4.855469 12.433594 Z M 4.855469 11.308594 "/>
-</g>
-<mask id="mask2">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="36" height="36" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip3">
-  <rect width="36" height="36"/>
-</clipPath>
-<g id="surface12" clip-path="url(#clip3)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 4.855469 14.683594 L 16.105469 14.683594 L 16.105469 15.808594 L 4.855469 15.808594 Z M 4.855469 14.683594 "/>
-</g>
-<mask id="mask3">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="36" height="36" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip4">
-  <rect width="36" height="36"/>
-</clipPath>
-<g id="surface15" clip-path="url(#clip4)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 4.855469 18.058594 L 12.730469 18.058594 L 12.730469 19.183594 L 4.855469 19.183594 Z M 4.855469 18.058594 "/>
-</g>
-<mask id="mask4">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="36" height="36" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip5">
-  <rect width="36" height="36"/>
-</clipPath>
-<g id="surface18" clip-path="url(#clip5)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 4.855469 21.433594 L 14.980469 21.433594 L 14.980469 22.558594 L 4.855469 22.558594 Z M 4.855469 21.433594 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(80%,80%,80%);fill-opacity:1;" d="M 18 33.863281 L 27.59375 33.863281 C 31.066406 33.863281 33.863281 31.066406 33.863281 27.589844 L 33.863281 8.40625 C 33.863281 4.933594 31.066406 2.136719 27.59375 2.136719 L 18 2.136719 Z M 18 33.863281 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(68.235294%,68.235294%,68.235294%);fill-opacity:1;" d="M 18 33.863281 L 18 2.136719 L 8.410156 2.136719 C 4.933594 2.136719 2.136719 4.933594 2.136719 8.40625 L 2.136719 27.589844 C 2.136719 31.066406 4.933594 33.863281 8.410156 33.863281 Z M 18 33.863281 "/>
-<use xlink:href="#surface6" mask="url(#mask0)"/>
-<use xlink:href="#surface9" mask="url(#mask1)"/>
-<use xlink:href="#surface12" mask="url(#mask2)"/>
-<use xlink:href="#surface15" mask="url(#mask3)"/>
-<use xlink:href="#surface18" mask="url(#mask4)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(76.078431%,20.784314%,16.470588%);fill-opacity:1;" d="M 19.894531 7.875 L 19.894531 28.125 L 23.269531 28.125 L 23.269531 19.125 L 26.644531 28.125 L 31.144531 28.125 L 31.144531 24.75 L 28.894531 24.75 L 26.644531 19.125 L 31.144531 19.125 L 31.144531 7.875 Z M 23.269531 11.25 L 27.769531 11.25 L 27.769531 15.75 L 23.269531 15.75 Z M 23.269531 11.25 "/>
-</g>
 </svg>

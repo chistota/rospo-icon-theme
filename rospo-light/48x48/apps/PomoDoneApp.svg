@@ -1,8 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" viewBox="0 0 36 36" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(87.843137%,29.803922%,49.803922%);fill-opacity:1;" d="M 8.40625 2.136719 L 27.59375 2.136719 C 31.054688 2.136719 33.863281 4.945312 33.863281 8.40625 L 33.863281 27.59375 C 33.863281 31.054688 31.054688 33.863281 27.59375 33.863281 L 8.40625 33.863281 C 4.945312 33.863281 2.136719 31.054688 2.136719 27.59375 L 2.136719 8.40625 C 2.136719 4.945312 4.945312 2.136719 8.40625 2.136719 Z M 8.40625 2.136719 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 12.9375 10.125 L 23.0625 10.125 C 24.617188 10.125 25.875 11.382812 25.875 12.9375 L 25.875 23.0625 C 25.875 24.617188 24.617188 25.875 23.0625 25.875 L 12.9375 25.875 C 11.382812 25.875 10.125 24.617188 10.125 23.0625 L 10.125 12.9375 C 10.125 11.382812 11.382812 10.125 12.9375 10.125 Z M 12.9375 10.125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(67.058824%,26.27451%,40.392157%);fill-opacity:1;" d="M 14.0625 12.375 L 21.9375 12.375 C 22.871094 12.375 23.625 13.128906 23.625 14.0625 L 23.625 21.9375 C 23.625 22.871094 22.871094 23.625 21.9375 23.625 L 14.0625 23.625 C 13.128906 23.625 12.375 22.871094 12.375 21.9375 L 12.375 14.0625 C 12.375 13.128906 13.128906 12.375 14.0625 12.375 Z M 14.0625 12.375 "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg14"
+   sodipodi:docname="PomoDoneApp.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="9.5"
+     inkscape:cx="-4.1052632"
+     inkscape:cy="16"
+     inkscape:current-layer="svg14" />
+  <rect
+     style="opacity:1;fill:#e04c7f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182"
+     inkscape:export-filename="/home/ramil/3.png"
+     inkscape:export-xdpi="71"
+     inkscape:export-ydpi="71" />
+  <rect
+     style="fill:#ffffff"
+     width="14"
+     height="14"
+     x="9"
+     y="9"
+     rx="2.5"
+     ry="2.5"
+     id="rect8" />
+  <rect
+     style="fill:#ab4367"
+     width="10"
+     height="10"
+     x="11"
+     y="11"
+     rx="1.5"
+     ry="1.5"
+     id="rect10" />
 </svg>
