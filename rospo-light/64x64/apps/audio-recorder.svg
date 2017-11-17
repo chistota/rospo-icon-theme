@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
@@ -22,36 +21,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs22">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4593">
-      <stop
-         style="stop-color:#ff5904;stop-opacity:1"
-         offset="0"
-         id="stop4589" />
-      <stop
-         style="stop-color:#cb060c;stop-opacity:0;"
-         offset="1"
-         id="stop4591" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4593"
-       id="radialGradient4597"
-       cx="16"
-       cy="16"
-       fx="16"
-       fy="16"
-       r="14.101694"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.2508,-1.3180753,0.53967187,0.92156602,-28.64755,22.344148)" />
-  </defs>
+     id="defs22" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -66,7 +41,7 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="8.9375"
-     inkscape:cx="12.187746"
+     inkscape:cx="-13.714352"
      inkscape:cy="18.06289"
      inkscape:current-layer="svg18" />
   <rect
@@ -78,7 +53,7 @@
      y="1.8983059"
      ry="5.575182" />
   <rect
-     style="opacity:1;fill:url(#radialGradient4597);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#b81f04;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-6-3-3"
      width="28.203388"
      height="28.203388"
