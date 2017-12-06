@@ -7,6 +7,7 @@ rospo-icon-theme
 ## Изображение 
 
 ![Screenshot](screenshot.svg)
+![Screenshot](screenshot2.svg)
 
 ## Особенности
 
