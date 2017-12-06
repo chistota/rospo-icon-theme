@@ -1,6 +1,7 @@
 [Icon Theme]
 Name=rospo-light
-Comment=Стандартный набор значков для светлых тем.
+Comment=ROSPO icons for light theme
+Comment[ru]=Стандартный набор значков для светлых тем.
 Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 DesktopDefault=48
