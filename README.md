@@ -23,3 +23,25 @@ rospo-icon-theme
 ## Сообщество
 РОСПО Дизайн-студия
 https://vk.com/rospodesign
+
+
+rospo-icon-theme
+===============
+
+ROSPO icons version 1.9
+Based on the wonderful [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) theme.
+
+## Features
+
+* More than 3000 icons
+* Suitable for different environments KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, Mate, etc.
+* For dark and light themes
+* New "New Year" theme
+
+## Installation
+
+`# git clone https://github.com/chistota/rospo-icon-theme.git /usr/share/icons/`
+
+## Community
+ROSPO Design Studio
+https://vk.com/rospodesign

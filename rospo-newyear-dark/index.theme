@@ -26,57 +26,46 @@ Directories=small/actions,small/animations,small/devices,small/emblems,small/emo
 Context=Actions
 Size=16
 MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/devices]
 Context=Devices
 Size=16
 MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/emblems]
 Context=Emblems
 Size=16
 MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/emotes]
 Context=Emotes
 Size=16
 MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/extra/clementine]
 Context=Actions
 Size=16
 MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/panel]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/places]
 Context=Places
 Size=16
-MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [small/status]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=22
-Type=Scalable
+Type=Fixed
 
 [medium/apps]
 Context=Applications
