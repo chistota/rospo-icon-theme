@@ -20,7 +20,7 @@ DialogSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 # Directory list
-Directories=small/actions,small/animations,small/devices,small/emblems,small/emotes,small/extra,small/pamel,small/places,small/status,medium/apps,medium/categories,medium/devices,medium/emblems,medium/mimetypes,medium/places,medium/preferences,medium/start,medium/status,large/applets
+Directories=small/actions,small/animations,small/devices,small/emblems,small/emotes,small/extra,small/extra/clementine,small/panel,small/places,small/status,medium/apps,medium/categories,medium/devices,medium/emblems,medium/mimetypes,medium/places,medium/preferences,medium/start,medium/status,large/applets
 
 [small/actions]
 Context=Actions

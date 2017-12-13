@@ -1,8 +1,8 @@
 rospo-icon-theme
 ===============
 
-РОСПО иконки для РОСЫ. Версия 1.9.2
-ROSPO icons version 1.9.2
+РОСПО иконки для РОСЫ. Версия 1.9.3
+ROSPO icons version 1.9.3
 ## Изображение 
 
 ![Screenshot](screenshot.svg)

@@ -20,52 +20,63 @@ DialogSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 # Directory list
-Directories=small/actions,small/animations,small/devices,small/emblems,small/emotes,small/extra,small/pamel,small/places,small/status,medium/apps,medium/categories,medium/devices,medium/emblems,medium/mimetypes,medium/places,medium/preferences,medium/start,medium/status,large/applets
+Directories=small/actions,small/animations,small/devices,small/emblems,small/emotes,small/extra,small/extra/clementine,small/panel,small/places,small/status,medium/apps,medium/categories,medium/devices,medium/emblems,medium/mimetypes,medium/places,medium/preferences,medium/start,medium/status,large/applets
 
 [small/actions]
 Context=Actions
 Size=16
 MinSize=16
-Type=Fixed
+MaxSize=22
+Type=Scalable
 
 [small/devices]
 Context=Devices
 Size=16
 MinSize=16
-Type=Fixed
+MaxSize=22
+Type=Scalable
 
 [small/emblems]
 Context=Emblems
 Size=16
 MinSize=16
-Type=Fixed
+MaxSize=22
+Type=Scalable
 
 [small/emotes]
 Context=Emotes
 Size=16
 MinSize=16
-Type=Fixed
+MaxSize=22
+Type=Scalable
 
 [small/extra/clementine]
 Context=Actions
 Size=16
 MinSize=16
-Type=Fixed
+MaxSize=22
+Type=Scalable
 
 [small/panel]
 Context=Status
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=22
+Type=Scalable
 
 [small/places]
 Context=Places
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=22
+Type=Scalable
 
 [small/status]
 Context=Status
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=22
+Type=Scalable
 
 [medium/apps]
 Context=Applications
@@ -132,5 +143,3 @@ Context=Applications
 MinSize=48
 MaxSize=512
 Type=Scalable
-
-
