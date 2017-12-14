@@ -128,7 +128,9 @@ Type=Scalable
 [medium/status]
 Context=Status
 Size=32
-Type=Fixed
+MinSize=32
+MaxSize=512
+Type=Scalable
 
 [medium/preferences]
 Size=32

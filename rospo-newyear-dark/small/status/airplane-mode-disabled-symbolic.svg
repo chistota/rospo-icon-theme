@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="22"
+   height="22"
    version="1.1"
    id="svg6"
    sodipodi:docname="airplane-mode-disabled-symbolic.svg"
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="966"
+     inkscape:window-height="970"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="-19.186441"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -48,10 +48,12 @@
      inkscape:current-layer="svg6" />
   <path
      style="fill:#d3dae3;fill-opacity:1"
-     d="M 15,8 C 15,8.55 14.55,9 14,9 H 12.4 L 6.21,2.81 5.97,2.06 C 5.7,1.01 5.7,1 6.5,1 6.93,1 6.93,1.01 7.22,1.5 L 10.9,7 H 14 C 14.55,7 15,7.44 15,8 Z M 10.38,9.78 7.22,14.5 C 6.95,14.95 6.93,15 6.56,15 H 6.5 C 5.7,15 5.72,14.96 5.97,13.97 L 7.59,9 H 3.09 L 1.87,10.78 C 1.73,10.99 1.75,11 1.53,11 H 1.31 C 0.88,11 1.03,10.56 1.03,10.56 L 1.31,8 1.03,5.43 C 1.03,5.43 0.89,5 1.28,5 H 1.53 C 1.74,5 1.73,5.01 1.87,5.22 L 3.09,7 H 7.59 Z"
-     id="path2" />
+     d="m 17.997667,11 c 0,0.55 -0.45,1 -1,1 h -1.6 l -6.1900005,-6.19 -0.24,-0.75 c -0.27,-1.05 -0.27,-1.06 0.53,-1.06 0.43,0 0.43,0.01 0.7200005,0.5 l 3.68,5.5 h 3.1 c 0.55,0 1,0.44 1,1 z m -4.62,1.78 -3.16,4.72 C 9.9476665,17.95 9.9276665,18 9.5576665,18 h -0.06 c -0.8,0 -0.78,-0.04 -0.53,-1.03 L 10.587667,12 H 6.0876665 l -1.22,1.78 c -0.14,0.21 -0.12,0.22 -0.34,0.22 h -0.22 c -0.43,0 -0.28,-0.44 -0.28,-0.44 l 0.28,-2.56 -0.28,-2.57 c 0,0 -0.14,-0.43 0.25,-0.43 h 0.25 c 0.21,0 0.2,0.01 0.34,0.22 l 1.22,1.78 h 4.5000005 z"
+     id="path2"
+     inkscape:connector-curvature="0" />
   <path
-     style="fill:#d3dae3;fill-opacity:1"
-     d="M 15.06,13.65 2.34,0.93 0.93,2.34 13.65,15.06 Z"
-     id="path4" />
+     style="fill:#d3dae3;fill-opacity:1;stroke-width:0.99079973"
+     d="M 18,16.602972 5.3970276,4 4,5.3970276 16.602972,18 Z"
+     id="path4"
+     inkscape:connector-curvature="0" />
 </svg>

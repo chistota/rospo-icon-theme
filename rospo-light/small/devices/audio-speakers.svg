@@ -1,8 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="audio-speakers.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="964"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4 1 C 2 1 2 3 2 3 L 2 14 C 2 16 3.8933 15.9964 4 16 L 12 16 C 12 16 14 15.996 14 14 L 14 3 C 14 1 12 1 12 1 L 4 1 z M 8 3 C 8.55407 3 9 3.44945 9 4 C 9 4.55064 8.55407 5 8 5 C 7.44576 5 7 4.55064 7 4 C 7 3.44945 7.44576 3 8 3 z M 8 6 C 10.2091 6 12 7.7909 12 10 C 12 12.2091 10.2091 14 8 14 C 5.7909 14 4 12.2091 4 10 C 4 7.7909 5.7909 6 8 6 z M 8 8 C 6.8954 8 6 8.89543 6 10 C 6 11.10457 6.89543 12 8 12 C 9.10457 12 10 11.10457 10 10 C 10 8.89543 9.10457 8 8 8 z"/>
+  </defs>
+  <path
+     style="color:#5c616c;fill:currentColor;stroke-width:0.67878789"
+     class="ColorScheme-Text"
+     d="m 5.2848483,2.9090909 c -1.3575758,0 -1.3575758,1.3575758 -1.3575758,1.3575758 v 7.4666663 c 0,1.357576 1.2851491,1.355132 1.3575758,1.357576 h 5.4303027 c 0,0 1.357577,-0.0027 1.357577,-1.357576 V 4.2666667 c 0,-1.3575758 -1.357577,-1.3575758 -1.357577,-1.3575758 z m 2.7151515,1.3575758 c 0.376096,0 0.6787879,0.3050812 0.6787879,0.6787879 0,0.3737677 -0.3026919,0.6787878 -0.6787879,0.6787878 -0.3762114,0 -0.6787879,-0.3050201 -0.6787879,-0.6787878 0,-0.3737067 0.3025765,-0.6787879 0.6787879,-0.6787879 z m 0,2.0363636 c 1.4995103,0 2.7151512,1.2156408 2.7151512,2.7151518 0,1.4995099 -1.2156409,2.7151509 -2.7151512,2.7151509 -1.4995103,0 -2.7151515,-1.215641 -2.7151515,-2.7151509 0,-1.499511 1.2156412,-2.7151518 2.7151515,-2.7151518 z m 0,1.3575758 c -0.7497891,0 -1.3575758,0.607807 -1.3575758,1.357576 0,0.749768 0.607807,1.3575749 1.3575758,1.3575749 0.7497687,0 1.3575757,-0.6078069 1.3575757,-1.3575749 0,-0.749769 -0.607807,-1.357576 -1.3575757,-1.357576 z"
+     id="path5"
+     inkscape:connector-curvature="0" />
 </svg>
