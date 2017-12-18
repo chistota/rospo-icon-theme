@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,17 +35,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="970"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="13"
-     inkscape:cx="17.115385"
-     inkscape:cy="11.692308"
-     inkscape:current-layer="svg7"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:cx="-3.6153846"
+     inkscape:cy="11"
+     inkscape:current-layer="svg7" />
   <defs
      id="defs3">
     <style
@@ -56,8 +53,8 @@
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="color:#5c616c;opacity:1;fill:#5c616c;fill-opacity:1;stroke-width:0.81666666"
+     style="color:#5c616c;opacity:1;fill:currentColor;stroke-width:1"
      class="ColorScheme-Text"
-     d="M 7.4999999,4 6.3333332,5.1666666 H 5.1666666 c -2.3333335,0 -2.3333335,2.3333329 -2.3333335,2.3333329 V 15.666667 C 2.8333331,18 5.1666666,18 5.1666666,18 H 16.833333 c 2.333334,0 2.333334,-2.333333 2.333334,-2.333333 V 7.4999995 c 0,-2.333333 -2.333334,-2.333333 -2.333334,-2.333333 H 15.666668 L 14.500001,4 Z M 11,7.4999995 c 1.932934,0 3.500001,1.5670667 3.500001,3.5000005 0,1.932933 -1.567067,3.5 -3.500001,3.5 C 9.0670669,14.5 7.4999999,12.932933 7.4999999,11 7.4999999,9.0670662 9.0670669,7.4999995 11,7.4999995 Z"
+     d="M 6.7142852,2.8131871 5.2857138,4.2417585 H 3.8571424 c -2.85714293,0 -2.85714293,2.8571429 -2.85714293,2.8571429 v 9.9999996 c 0,2.857143 2.85714293,2.857143 2.85714293,2.857143 H 18.142857 C 21,19.956044 21,17.098901 21,17.098901 V 7.0989014 C 21,4.2417585 18.142857,4.2417585 18.142857,4.2417585 H 16.714286 L 15.285715,2.8131871 Z M 11,7.0989014 c 2.366858,0 4.285715,1.9188571 4.285715,4.2857136 0,2.366857 -1.918857,4.285715 -4.285715,4.285715 -2.3668575,0 -4.2857148,-1.918858 -4.2857148,-4.285715 0,-2.3668565 1.9188573,-4.2857136 4.2857148,-4.2857136 z"
      id="path5-3" />
 </svg>

@@ -34,12 +34,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="749"
+     inkscape:window-width="769"
      inkscape:window-height="480"
      id="namedview11"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="11"
+     inkscape:cx="-1.6779661"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,19 +54,22 @@
   </style>
   </defs>
   <g
-     id="g4492"
-     transform="matrix(0.67896468,0,0,0.67896468,2.5682826,2.9090909)">
+     id="g4496"
+     transform="matrix(0.77575758,0,0,0.77575758,1.7939394,2.1833332)">
     <path
        id="path5"
        d="m 10,0 c 0.004,0.003 0,1.3333 0,2 H 7 v 5 h 3 v 2 l 5.5,-4.5 z"
        class="ColorScheme-Text"
        style="color:#5c616c;opacity:0.3;fill:currentColor"
        inkscape:connector-curvature="0" />
-    <path
-       id="path7"
-       d="m 6,5.9960938 -5.5,4.5000002 5.5,4.5 c -0.004,-0.003 0,-1.3333 0,-2 H 9 V 7.9960938 H 6 Z"
-       class="ColorScheme-Text"
-       style="color:#5c616c;fill:currentColor"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g4491">
+      <path
+         style="color:#5c616c;fill:currentColor"
+         class="ColorScheme-Text"
+         d="m 6,5.9960938 -5.5,4.5000002 5.5,4.5 c -0.004,-0.003 0,-1.3333 0,-2 H 9 V 7.9960938 H 6 Z"
+         id="path7"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

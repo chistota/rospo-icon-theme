@@ -34,7 +34,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="749"
+     inkscape:window-width="769"
      inkscape:window-height="480"
      id="namedview9"
      showgrid="false"
@@ -54,9 +54,9 @@
   </style>
   </defs>
   <path
-     style="color:#d3dae3;fill:currentColor;stroke-width:0.88522518"
+     style="color:#d3dae3;fill:currentColor;stroke-width:0.72727275"
      class="ColorScheme-Text"
-     d="m 8.0276635,2.9090909 v 0.00173 c -2.6861272,0 -5.104164,0.9544497 -7.10946457,2.4343691 L 8.0276635,13.090909 15.081801,5.3175257 C 13.081193,3.8569042 10.692191,2.9090909 8.0276635,2.9090909 Z"
+     d="m 8.022727,3.8174716 v 0.00142 c -2.2068363,0 -4.1934181,0.7841455 -5.8409091,2 L 8.022727,12.182528 13.818182,5.7961647 c -1.643637,-1.2 -3.606364,-1.9786931 -5.795455,-1.9786931 z"
      id="path5"
      inkscape:connector-curvature="0" />
 </svg>
